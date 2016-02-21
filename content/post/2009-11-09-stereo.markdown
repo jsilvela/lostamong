@@ -1,0 +1,36 @@
+---
+author: jsilvela
+categories:
+- tech
+comments: true
+date: 2009-11-09T08:25:09Z
+slug: stereo
+title: Stereo
+url: /2009/11/09/stereo/
+wordpress_id: 591
+---
+
+I'm not the most obsessive person I know, but certainly I'm above average.
+
+Ever since I got my first stereo and DVD player, I have had the question of speech intelligibility at the back of my mind. You see, very often I need to turn on the English subtitles for the films I watch in DVD, otherwise I lose words here and there. This has been an issue for years, and though I've made incremental improvements (I even wrote an[ optimistic post](http://jsilvela.wordpress.com/2009/03/03/audio-obsession/)), it has kept bothering me.
+For instance, a DVD I saw recently, where I needed to turn on the subtitles, was _Gran Torino_.
+
+This weekend I started browsing through _Sound Reproduction_ by Floyd Toole.
+It said that stereo playback itself is limited by physics, and that multichannel systems, as those used in home theater, are a good idea. I have always been a stereo purist, scoffing at those clueless souls who buy "home theater packages" with mediocre multi-speakers.  This was most surprising. Reading more, it started to make perfect sense.
+
+Sound is a wave, and like all waves, it is susceptible to _interference_. When two identical waves fire from different places, there are points in space at which they fight each other, and other points in space where they reinforce each other.
+You can read the [wikipedia entry](http://en.wikipedia.org/wiki/Interference_(wave_propagation)), but here's an animated photo from it: 
+
+![Wave interference](http://upload.wikimedia.org/wikipedia/commons/2/2c/Two_sources_interference.gif)
+
+Now, the pattern of interference depends on the frequency of the wave. In the case of audio, that means that if you play the same exact sound from your left and right speakers, in your ears some frequencies will sound louder, and some softer, than they would coming from a single speaker. Moreover, the effect is location-dependent.
+
+Movie dialogs are recorded in a single channel in the studio, and are added to the soundtrack in the mastering room. When listening to DVDs through two speakers, two identical copies of the dialog track are sent to the speakers. Hence, there is an interference pattern that alters the frequency balance you hear. Floyd Toole's book contains graphs showing that this can be a significant effect.
+
+The solution? Use a center channel for dialog! Well I'll be damned, those home theater systems had it right! And this is not only for DVDs. Toole explains that music CDs are vulnerable in the same way. SuperAudioCD, touted as the ultimate in sound, is capable of multi-channel.
+
+Headphones don't have this problem, since each ear gets the sound from a single source. I have always found good headphones more detailed than speakers, and now I know why.
+
+Since my Panasonic amplifier can handle multi-channel audio, this weekend I added a center speaker from a pair I bought for the computer, and tested. The difference was notable. Dialog lost it's pleasant, enveloping, "somewhere between the speakers" quality, and became pinpointed in the center speaker, but gained clarity, no doubt. I had once read a review of an amplifier that was referred to as "congested". At times I had thought that word described dialogues in my system well, but now the congestion seemed gone.
+
+I love to have my assumptions challenged like this, and to my delight, I no longer need subtitles for _Gran Torino_. I'm not about to get surround speakers, but I am certainly keeping the center channel. Who'da thunk?

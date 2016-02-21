@@ -1,0 +1,21 @@
+---
+author: jsilvela
+categories:
+- craft
+- tech
+comments: true
+date: 2009-01-14T05:28:08Z
+slug: hardware
+title: Hardware
+url: /2009/01/14/hardware/
+wordpress_id: 353
+---
+
+My iMac and my MacBook Pro had been running out of memory and disk space for some time now.
+After some research online, I found that, even though a hard drive replacement in a MacBook is risky, I could handle it myself. It was fun to buy the screwdrivers and the components. I like doing manual work now and then. Aside from a short, tiny scare, it all went smoothly, and I enjoyed seeing the bowels of my machines.
+
+[![MacBook Pro entrails](http://jsilvela.smugmug.com/photos/454612943_c9xaa-S.jpg)](http://jsilvela.smugmug.com/gallery/5019150_Y3JuM/1/454612943_c9xaa#454612943_c9xaa-A-LB)
+
+Now they are ready to serve comfortably for another few years.
+
+PS: If you're looking to replace the hard drive on your MacBook Pro, [here are instructions](http://www.ifixit.com/Guide/Mac/MacBook-Pro-15-Inch-Core-Duo/Hard-Drive-Replacement/85/8/Page-1).

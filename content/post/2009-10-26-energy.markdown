@@ -1,0 +1,60 @@
+---
+author: jsilvela
+categories:
+- tech
+comments: true
+date: 2009-10-26T05:02:42Z
+slug: energy
+title: Energy
+url: /2009/10/26/energy/
+wordpress_id: 582
+---
+
+A few months ago, I had a phone call from my landlord. He had realized he had been paying the electricity bill, which was supposed to be my duty. Neither of us stay on top of our money, obviously. I payed him back for past bills, and set up an account with Seattle Light.
+
+My landlord remarked that I had a very low bill. This was a surprise. A lot of the time I'm home, I'm watching a DVD, or listening to music while playing with my laptop. I had been reading about amplifier technology, and had found out most amplifiers, mine included, are energy-inefficient. I assumed I would be power-hungry, for  a single person that is.
+
+I discovered, a long time ago, that several of the power outlets in my living room can be switched on/off from one wall switch, and I put all my computer and internet gear on those outlets, so that I can shut down properly when I go to bed. The hifi set and the TV, however, sit in an area of the room where the outlets are always on, and unplugging the power strip to which they're connected is not something I want to do daily.
+
+I've recently bought a little toy, a watt-meter called the Kill-a-Watt.
+
+[![](http://jsilvela.smugmug.com/Other/Sueltas/IMG6543/692876562_UHUzX-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/1/#692876562_UHUzX-A-LB)
+
+This little box will tell you how much current, voltage and energy your equipment is drawing.
+To my great surprise, the news was almost all good.
+
+
+
+	
+  * My amplifier, which I assumed was a waster, consumed a very reasonable 30 watt in regular use.
+
+	
+  * My DVD player and turntable consumed 14 watt each when in use, and less than 1 watt when not.
+
+	
+  * The TV consumed 80 watt in use, and 1 watt when idle. This was much lower than I expected, better even than specified by Panasonic. The reason, I believe, is that I calibrated the TV for maximum fidelity, and toned the brightness way down.
+
+	
+  * The Mac laptop consumes 30 watt in use, and 7 when idle - but I switch the power outlet off at night, so that is not so important.
+
+        
+  * The EeePC consumes 16 watt in use, and 3 when idle (again, not that important).
+
+
+
+Very surprising, especially when considering that watching a DVD will draw 120 watt. Not far off from reading at night!
+
+Some figures were not as good:
+
+	
+  * The Apple TV consumes 40 watt when active, and 30 when idle, and has no off switch.
+
+	
+  * The amplifier consumes 14 watt when off.
+
+
+
+The most annoying was the Apple TV, a piece of equipment that hasn't quite lived up to my expectations. Still, the solution was easy. I had a spare power strip, which I connected to the big strip I use for hifi/tv. The AppleTV is connected to it, and I switch the strip on/off as needed. I don't want to put the amplifier on the same strip, though, because that would mean the Apple TV is on almost all the time I'm in the living room.
+
+Now my  hifi/tv corner consumes 16 watt when idle, instead of 45. Not as good as 0, but for the moment it will do. I feel much better now.
+

@@ -1,5 +1,14 @@
-baseurl: http://replace-this-with-your-hugo-site.com/
+baseurl: "http://silvela.org/jaime/lost/"
+canonifyurls: true
 disablePathToLower: true
-languageCode: en-us
-title: My New Hugo Site
+languageCode: "en-us"
+title: "Lost Among Europeans"
+author: "Jaime Silvela"
+theme: "hugo-zen"
+
+params:
+  copyright: "Jaime Silvela"
+  twitter: "https://twitter.com/jsilvela"
+  email: "jsilvela@gmail.com"
+
 ...

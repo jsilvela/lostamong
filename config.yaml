@@ -4,11 +4,12 @@ disablePathToLower: true
 languageCode: "en-us"
 title: "Lost Among Europeans"
 author: "Jaime Silvela"
-theme: "hugo-zen"
+theme: "lost"
+disqusShortname: "lostamong"
 
 params:
   copyright: "Jaime Silvela"
   twitter: "https://twitter.com/jsilvela"
-  email: "jsilvela@gmail.com"
+  email: "jaime.silvela@gmail.com"
 
 ...

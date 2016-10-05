@@ -12,4 +12,4 @@ More and more, I am convinced that narrative is the best way to learn, design, c
 
 In this brief talk, Matt Stone and Trey Parker, idols of mine and creators of South Park, explain how to tell a good story:
 
-[http://graphics8.nytimes.com/bcvideo/1.0/iframe/embed.html?videoId=100000001039812&playerType=embed](http://graphics8.nytimes.com/bcvideo/1.0/iframe/embed.html?videoId=100000001039812&playerType=embed)
+<iframe title="New York Times Video - Embed Player" width="480" height="321" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" id="nyt_video_player" src="http://graphics8.nytimes.com/video/players/offsite/index.html?videoId=100000001039812"></iframe>

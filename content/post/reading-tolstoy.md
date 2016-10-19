@@ -96,17 +96,17 @@ So how did the 2010 Maude fare on the passages where P&V stumbled?
 
 <hr/>
 
-> ‘Then it is not true that he’s married!’
+> “Then it is not true that he’s married!”
 
-> ‘Yes, it is true.’
+> “Yes, it is true.”
 
-> ‘Has he been married long?’ she asked. ‘On your honour? …’
+> “Has he been married long?” she asked. “On your honour? …”
 
 > Pierre gave his word of honour.
 
-> ‘Is he still here?’ she asked, quickly.
+> “Is he still here?” she asked, quickly.
 
-> ‘Yes, I have just seen him.’
+> “Yes, I have just seen him.”
 
 These avoid the confusion of P&V. How about the meatier passages that P&V do so well on and that Briggs defangs?
 
@@ -114,9 +114,9 @@ These avoid the confusion of P&V. How about the meatier passages that P&V do so 
 
 <hr/>
 
-> ‘Mon cher,’ Princess Marya entering at such a moment would say, ‘little Nikolai can’t go out today, it’s very cold.’
+> “Mon cher,” Princess Marya entering at such a moment would say, “little Nikolai can’t go out today, it’s very cold.”
 
-> ‘If it were hot,’ Prince Andrei would reply at such times very drily to his sister, ‘he could go out in his smock, but as it is cold he must wear warm clothes, which were designed for that purpose. That is what follows from the fact that it is cold; and not that a child who needs fresh air should remain at home,’ he would add with extreme logic, as if punishing someone for those secret illogical emotions that stirred within him.
+> “If it were hot,” Prince Andrei would reply at such times very drily to his sister, “he could go out in his smock, but as it is cold he must wear warm clothes, which were designed for that purpose. That is what follows from the fact that it is cold; and not that a child who needs fresh air should remain at home,” he would add with extreme logic, as if punishing someone for those secret illogical emotions that stirred within him.
 
 > At such moments Princess Marya would think how intellectual work dries men up.
 

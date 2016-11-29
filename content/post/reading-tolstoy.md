@@ -27,14 +27,18 @@ From book 2, part 5, chapter 19:
 
 From book 2, part 3, chapter 3:
 
-> “Mon cher,” Princess Marya would say, coming in at such a moment, “Nikolushka musn’t go for a walk today: it’s too cold.” 
-> “If it were warm,” Prince Andrei would answer his sister with particular dryness at such a moment, “he would go only in his shirt, but since it’s cold, you must put warm clothes on him, which is why they were invented—that’s what follows from the fact that it is cold, and not that the child should stay at home when he needs air,” he would say with particular logicality, as if punishing someone for all that secret illogical work that was going on inside him. 
+> “Mon cher,” Princess Marya would say, coming in at such a moment, “Nikolushka musn’t go for a walk today: it’s too cold.”
+
+> “If it were warm,” Prince Andrei would answer his sister with particular dryness at such a moment, “he would go only in his shirt, but since it’s cold, you must put warm clothes on him, which is why they were invented—that’s what follows from the fact that it is cold, and not that the child should stay at home when he needs air,” he would say with particular logicality, as if punishing someone for all that secret illogical work that was going on inside him.
+
 > On these occasions Princess Marya reflected on how such mental work dries men up.
 
 (Pevear & Volokhonsky)
 
-> “Listen, my dear,” Princess Marya might say, coming in at just such a time, “Little Nikolay can’t go out for a walk today. It’s too cold.” 
-> “If it happened to be hot,” Andrey’s tart response would be on such occasions, “he would go out in his smock, but since it’s cold you must dress him in warm clothing designed for that purpose. That’s what happens when it’s cold, not staying indoors when the child needs some fresh air.” He would pronounce all this with an exaggerated sense of logic, as if he needed to resolve his own inner illogicalities by secretly taking them out on someone else. 
+> “Listen, my dear,” Princess Marya might say, coming in at just such a time, “Little Nikolay can’t go out for a walk today. It’s too cold.”
+
+> “If it happened to be hot,” Andrey’s tart response would be on such occasions, “he would go out in his smock, but since it’s cold you must dress him in warm clothing designed for that purpose. That’s what happens when it’s cold, not staying indoors when the child needs some fresh air.” He would pronounce all this with an exaggerated sense of logic, as if he needed to resolve his own inner illogicalities by secretly taking them out on someone else.
+
 > It was at times like this that Princess Marya thought how desiccated men’s minds become with all that intellectual activity.
 
 (Briggs)
@@ -68,11 +72,16 @@ We’re being introduced, for the first time, to the adolescent Natasha, Nikolay
 
 From book 2, part 5, chapter 19:
 
-> “So it’s not true that he’s married?” 
-> “No, it’s true.” 
-> “He was married, and long ago?” she asked. “Word of honour.” 
-> Pierre gave her his word of honour. 
-> “Is he still here?” she asked quickly. 
+> “So it’s not true that he’s married?”
+
+> “No, it’s true.”
+
+> “He was married, and long ago?” she asked. “Word of honour.”
+
+> Pierre gave her his word of honour.
+
+> “Is he still here?” she asked quickly.
+
 > “Yes, I just saw him.”
 
 I get confused here. Who says “Word of honour.”? Is it Pierre? Then, is “Pierre gave his word of honour” just an explanation of what he had just said quite plainly?
@@ -85,20 +94,33 @@ So how did the 2010 Maude fare on the passages where P&V stumbled?
 
 > […] suddenly from the next room were heard the footsteps of boys and girls running to the door and the noise of a chair falling over, and a girl of thirteen, hiding something in the folds of her short muslin frock […] a student with a crimson coat-collar, an officer of the Guards, a girl of fifteen, and a plump rosy-faced boy in a short jacket.
 
-> ‘Then it is not true that he’s married!’
-> ‘Yes, it is true.’
-> ‘Has he been married long?’ she asked. ‘On your honour? …’
+<hr/>
+
+> “Then it is not true that he’s married!”
+
+> “Yes, it is true.”
+
+> “Has he been married long?” she asked. “On your honour? …”
+
 > Pierre gave his word of honour.
-> ‘Is he still here?’ she asked, quickly.
-> ‘Yes, I have just seen him.’
+
+> “Is he still here?” she asked, quickly.
+
+> “Yes, I have just seen him.”
 
 These avoid the confusion of P&V. How about the meatier passages that P&V do so well on and that Briggs defangs?
 
 > He did not know that Natasha’s soul was overflowing with despair, shame, and humiliation, and that it was not her fault that her face happened to assume an expression of calm dignity and severity.
 
-> ‘Mon cher,’ Princess Marya entering at such a moment would say, ‘little Nikolai can’t go out today, it’s very cold.’ 
-> ‘If it were hot,’ Prince Andrei would reply at such times very drily to his sister, ‘he could go out in his smock, but as it is cold he must wear warm clothes, which were designed for that purpose. That is what follows from the fact that it is cold; and not that a child who needs fresh air should remain at home,’ he would add with extreme logic, as if punishing someone for those secret illogical emotions that stirred within him. 
+<hr/>
+
+> “Mon cher,” Princess Marya entering at such a moment would say, “little Nikolai can’t go out today, it’s very cold.”
+
+> “If it were hot,” Prince Andrei would reply at such times very drily to his sister, “he could go out in his smock, but as it is cold he must wear warm clothes, which were designed for that purpose. That is what follows from the fact that it is cold; and not that a child who needs fresh air should remain at home,” he would add with extreme logic, as if punishing someone for those secret illogical emotions that stirred within him.
+
 > At such moments Princess Marya would think how intellectual work dries men up.
+
+<hr/>
 
 > The idea of marrying some rich woman, which was suggested to him by his female relations, was repugnant to him.
 

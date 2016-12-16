@@ -27,7 +27,7 @@ When I've seen repugnant behavior, it has usually come from people who felt betr
 
 Of course, there are real evils. Things like poverty or war or unhappiness. And some of those evils are inflicted by some people on some other people. But I wonder how many of those were started by someone who chose to do damage for no particular reason.
 
-It would be good to see, from the press, from public figures, from average people, more analysis to back up their claims. Too often I see muddled thought from people who portray themselves as educated or reasonable.<br/>
+It would be good to see, from the press, from public figures, from average people, more analysis to back up their claims. Too often I see muddled thought from people who portray themselves as educated or reasonable, who at any rate should know better.<br/>
 I have long been suspicious of any who describe themselves as moderate, or educated, or reasonable, or realistic, or mature; but that is, possibly, a different story.
 
-I'm coming to this realization rather late, but we seem to think we live in a Tolkien world of good versus evil.
+I'm coming to this realization rather late, but many seem to think we live in a Tolkien world of good versus evil. And I think this is due to mental laziness rather than to intrinsic Manichaeism.

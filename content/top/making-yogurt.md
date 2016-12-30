@@ -1,16 +1,17 @@
 ---
 author: jsilvela
+fixed: top
 comments: true
 date: 2009-05-24 18:40:31+00:00
 layout: page
 slug: making-yogurt
-title: Making yogurt
+title: Making Yogurt
 wordpress_id: 445
 ---
 
 In the blog I have two posts that deal with my findings when trying to make yogurt at home:
-[Part 1](http://jsilvela.wordpress.com/2008/10/06/fun-with-milk/)
-[Part 2](http://jsilvela.wordpress.com/2008/12/14/raw-yogurt-at-last/)
+[Part 1]({{<relref "post/2008-10-06-fun-with-milk.markdown">}})
+[Part 2]({{<relref "post/2008-12-14-raw-yogurt-at-last.markdown">}})
 
 I thought I'd make this page with my findings, without the story.
 

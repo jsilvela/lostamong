@@ -10,9 +10,10 @@ url: /2008/10/06/fun-with-milk/
 wordpress_id: 178
 ---
 
-[Note: if you want instructions on making yogurt, without the story, go [here](http://jsilvela.wordpress.com/making-yogurt/)]
+[Note: if you want instructions on making yogurt, without the story, go 
+[here]({{< relref "top/making-yogurt.md">}})]
 
-I'm about to begin a discussion of the parameters in yogurt making, and get into technicalities. You may want to [skip down](http://jsilvela.wordpress.com/2008/10/06/fun-with-milk/#fun) to the paragraphs that surround the photo, unless you enjoy food geekery.
+I'm about to begin a discussion of the parameters in yogurt making, and get into technicalities. You may want to [skip down](#fun) to the paragraphs that surround the photo, unless you enjoy food geekery.
 
 The basic process of making yogurt is pretty simple:
 
@@ -55,7 +56,7 @@ I am not able to play easily with the incubation temperature. The incubation tem
 In any case, my yogurt maker doesn't give me the option of adjusting the temperature, and I'm not curious enough to set up a lab in the kitchen.
 
 **Incubation time**
-The incubation time varies widely depending on where you read from. Usually you'll read it's about 6 to 8 hours. Elaine Gottschal's book (see [my previous post](http://jsilvela.wordpress.com/2008/10/06/my-yogurt-my-diet/)) specifies an incubation time of 24 hours, to ensure that all the lactose has been consumed by the lactobacilli. I follow this, though I have also experimented with 12 hours of incubation. The longer incubation period makes the yogurt slightly tarter and firmer, and has positive impact overall, in my opinion.
+The incubation time varies widely depending on where you read from. Usually you'll read it's about 6 to 8 hours. Elaine Gottschal's book (see [my previous post]({{<relref "2008-10-06-my-yogurt-my-diet.markdown">}})) specifies an incubation time of 24 hours, to ensure that all the lactose has been consumed by the lactobacilli. I follow this, though I have also experimented with 12 hours of incubation. The longer incubation period makes the yogurt slightly tarter and firmer, and has positive impact overall, in my opinion.
 
 **Starter**
 The starter can be either a spoonful of commercial yogurt, or freeze-dried starter cultures. Commercial yogurts, and starter cultures, contain several strains of bacteria: at least Thermophilus and Bulgaricus, often Acidophilus and Bifidus. Gottschal's book warns against bifidus, and several people in the online communities that follow her diet (again, see previous post) say that they've had intestinal trouble when they've eaten yogurt with bifidus repeatedly.
@@ -87,6 +88,7 @@ Again, I used to err on the side of less processing and used non-homogenized, bu
 
 So, hip-hip for modern times. At least when it comes to yogurt, they made milk much better.
 
+<div id="fun"></div>
 **The Fun Part**
 The yogurt I make at home is much better than most available in stores. Generally, I make plain yogurt, but when I get good raspberries, gooseberries, blueberries or other berries, I often throw them into the yogurt. It is especially effective to make them into a puree with a blender, because that allows you to throw in more quantity, and give the yogurt a stronger berry flavor. By the way, the berries, or berry puree, are added to the yogurt _after_ fermentation. I haven't tried to add them before, but I don't see the point. In the worst of cases, the lactobacilli may digest the fructose in the berries and make them tarter, or proper fermentation of the milk may be prevented. In the best of cases, the flavor will be unchanged from adding the berries after fermentation. All the sources I've read recommend adding the fruit, or the honey, after fermentation.
 

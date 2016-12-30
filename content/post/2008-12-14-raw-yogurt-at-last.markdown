@@ -12,11 +12,12 @@ url: /2008/12/14/raw-yogurt-at-last/
 wordpress_id: 326
 ---
 
-[Note: if you want instructions on making yogurt, without the story, go [here](http://jsilvela.wordpress.com/making-yogurt/)]
+[Note: if you want instructions on making yogurt, without the story, go
+[here]({{< relref "top/making-yogurt.md">}})]
 
 Today I bring you one of those stories about the triumph of the human spirit that Hollywood is so fond of.
 
-In my [previous post on yogurt](http://jsilvela.wordpress.com/2008/10/06/fun-with-milk/), I had described the whole process I used to make yogurt, and some of its limitations.
+In my [previous post on yogurt]({{<relref "2008-10-06-fun-with-milk.markdown">}}), I had described the whole process I used to make yogurt, and some of its limitations.
 To sum it up:
 
 

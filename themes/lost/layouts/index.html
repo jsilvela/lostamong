@@ -2,11 +2,14 @@
 
 	<main>
 	<!-- Fixed entries -->
-	<h1 class="entry-title">
+	<table layout="fixed" style="width: 100%"><tr>
 	{{ range where .Data.Pages "Params.fixed" "top"}}
-		<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+		<td class="entry-title" style="font-size: 1.1em; font-weight: 700">
+			<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+		</td>
 	{{ end }}
-	</h1>
+	</tr>
+	</table>
 
 	<hr style="margin-bottom: 2em;"/>
 

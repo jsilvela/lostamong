@@ -8,7 +8,9 @@ url: /2013/11/29/running-fickle/
 wordpress_id: 1085
 ---
 
-Once upon a time, I [vowed never to run another marathon](http://jsilvela.wordpress.com/2011/10/09/dont-eat-chocolate-on-long-runs/). I took only two years to go back on my word, spurred by friends who were training, and by wishful thinking that I could train smarter, suffer less and make a great time.
+Once upon a time, I 
+[vowed never to run another marathon]({{< relref "2011-10-09-dont-eat-chocolate-on-long-runs.markdown">}}).
+I took only two years to go back on my word, spurred by friends who were training, and by wishful thinking that I could train smarter, suffer less and make a great time.
 
 This time I did indeed train smarter. I was set for a big improvement on my personal record, but on the day of the race, I felt tired, and already in the 10th kilometer I knew I would not improve on my 3:41 time. I decided to settle on a bearable pace, and finish, whatever the time. Well, it was 3:59 in the end. Not bad, all things considered.
 

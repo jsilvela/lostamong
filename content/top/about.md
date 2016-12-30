@@ -6,6 +6,7 @@ layout: page
 slug: about
 title: About
 wordpress_id: 2
+fixed: top
 ---
 
 My name is Jaime Silvela, and this is the blog where I keep my family and friends up to date with my adventures.

@@ -12,14 +12,14 @@ wordpress_id: 591
 
 I'm not the most obsessive person I know, but certainly I'm above average.
 
-Ever since I got my first stereo and DVD player, I have had the question of speech intelligibility at the back of my mind. You see, very often I need to turn on the English subtitles for the films I watch in DVD, otherwise I lose words here and there. This has been an issue for years, and though I've made incremental improvements (I even wrote an[ optimistic post](http://jsilvela.wordpress.com/2009/03/03/audio-obsession/)), it has kept bothering me.
+Ever since I got my first stereo and DVD player, I have had the question of speech intelligibility at the back of my mind. You see, very often I need to turn on the English subtitles for the films I watch in DVD, otherwise I lose words here and there. This has been an issue for years, and though I've made incremental improvements (I even wrote an[ optimistic post]({{<relref "2009-03-03-audio-obsession.markdown">}})), it has kept bothering me.
 For instance, a DVD I saw recently, where I needed to turn on the subtitles, was _Gran Torino_.
 
 This weekend I started browsing through _Sound Reproduction_ by Floyd Toole.
 It said that stereo playback itself is limited by physics, and that multichannel systems, as those used in home theater, are a good idea. I have always been a stereo purist, scoffing at those clueless souls who buy "home theater packages" with mediocre multi-speakers.  This was most surprising. Reading more, it started to make perfect sense.
 
 Sound is a wave, and like all waves, it is susceptible to _interference_. When two identical waves fire from different places, there are points in space at which they fight each other, and other points in space where they reinforce each other.
-You can read the [wikipedia entry](http://en.wikipedia.org/wiki/Interference_(wave_propagation)), but here's an animated photo from it: 
+You can find plenty on wikipedia about interference in wave propagation, but here's an animated picture: 
 
 ![Wave interference](http://upload.wikimedia.org/wikipedia/commons/2/2c/Two_sources_interference.gif)
 

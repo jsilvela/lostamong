@@ -1,10 +1,11 @@
 ---
 author: jsilvela
+fixed: top
 comments: true
 date: 2008-10-14 05:52:48+00:00
 layout: page
 slug: resources-for-wet-shaving
-title: Resources for wet shaving
+title: Resources for Wet Shaving
 wordpress_id: 213
 ---
 

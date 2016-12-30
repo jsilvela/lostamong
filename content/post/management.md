@@ -50,7 +50,7 @@ Antonio was endearingly zealous of his responsibility updating the file, and com
 > Antonio, on item 5.2, please decrease the “remaining time” column to one week.
 
 which he did with his usual vigor.
-Mike had to supress his laughter.
+Mike had to work hard to supress his laughter.
 
 The end of our contracts came, and the business people wanted to keep us. For months I had been reminding them that I would be leaving, and that they needed to find a replacement, but the CEO would always tell me that they would make me a great offer, and I would see it and take it and stay. The great offer did come, and I rejected it. I had already decided to leave the company, the sector, the city. Their shock when both Mike and I turned them down still makes me chuckle.
 

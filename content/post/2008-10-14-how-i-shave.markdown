@@ -28,7 +28,7 @@ I bought a safety razor, and found a forum for people shaving with vintage razor
 [![Razor and blade](http://jsilvela.smugmug.com/photos/392670672_7a99D-S.jpg)
 ](http://jsilvela.smugmug.com/photos/392670672_7a99D-XL.jpg)
 I've gotten some people to try this too. I helped my running team-mate Liz put a shaving kit together for her husband, who used to have irritations, and he really enjoyed the improved experience. Anthony recently converted to brush, soap, and double-edged, and is delighted.
-I've made a [new page on shaving resources]({{< relref "top/resources-for-wet-shaving.markdown">}}) on this blog, as a guide for people who want to try all this.
+I've made a [new page on shaving resources]({{< relref "top/resources-for-wet-shaving.md">}}) on this blog, as a guide for people who want to try all this.
 
 So here's my routine: I splash warm water on my beard and neck. I soak my brush in hot water, and then I swirl it on the soap until it starts to make lather. At that point, I apply the lather to my skin. I don't need a thick layer, like they show you in commercials for foam. I just need enough to make my skin slick, and my hairs wet. Then, holding the razor gently, with the ends of my fingers, I start my first pass, cutting in the direction of the hairs (with the grain). I don't need to apply almost any pressure - the weight of the razor does the work for me. I can hear the pleasant crinkling of my stubble getting cut.
 After I finish  the first pass, I apply a new layer of lather, and start cutting across the grain. This is good enough most days. Sometimes, for an extra good finish, I make a third pass, against the grain. Then I splash some cold water to get the soap off my skin, dry with a towel, and apply a few drops of after-shave.

@@ -8,8 +8,19 @@ url: /2009/05/07/cartoons/
 wordpress_id: 411
 ---
 
-In two days I'll be going on a hard-earned ten day holiday to hike Bryce Canyon and see Guillermo get married in DC. I am in desperate need of the vacation, I'm almost there in my mind.
+In two days I'll be going on a hard-earned ten day holiday to hike Bryce Canyon and
+see Guillermo get married in DC. I am in desperate need of the vacation,
+I'm almost there in my mind.
 
-Nothing much worth writing about in the last week, but a friend sent me a link to a youtube video. It's an electronic song that someone made almost fully out of sound fragments from the Disney movie _Alice in Wonderland_. I'm completely mesmerized by the music and the video, I've watched it several times. I almost want to rent the film now. I was thinking about animated films. In late years they have become much less interesting than they used to be. Alice's expressions in the video are more natural than today's overdone 3D faces that grin constantly. Another thing I can do without is the celebrity voices. And the pop-culture references. Cartoons are for children, Hollywood, children, and adults who enjoy children's entertainment! 
+Nothing much worth writing about in the last week, but a friend sent me a link to a
+youtube video. It's an electronic song that someone made almost fully out of sound
+fragments from the Disney movie _Alice in Wonderland_. I'm completely mesmerized
+by the music and the video, I've watched it several times. I almost want to rent the
+film now. I was thinking about animated films. In late years they have become much
+less interesting than they used to be. Alice's expressions in the video are more natural
+than today's overdone 3D faces that grin constantly. Another thing I can do without is
+the celebrity voices. And the pop-culture references. Cartoons are for children,
+Hollywood, children! And adults who enjoy children's entertainment.
 
-[youtube=http://www.youtube.com/watch?v=pAwR6w2TgxY]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pAwR6w2TgxY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+

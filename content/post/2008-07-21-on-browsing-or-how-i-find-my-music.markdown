@@ -17,7 +17,18 @@ I immediately went on the internet, and with a couple of searches found what I w
 This is not the first time I've found music this way. I also have some songs that I discovered from commercials, and of course, a sizable portion of my collection comes from film soundtracks. Another sizable portion comes from browsing in Amazon to see what people with similar tastes were buying. I have also discovered some groups thanks to friends; notably, Anthony introduced me to British electronica.
 I don't think I have any songs that I discovered through the radio. Perhaps one or two. Aside from a brief period during teenage, I've never much listened to the radio or watched MTV, so that explains that, but my point here is that I have a large collection of music, and it didn't come from the radio. I wonder if that is very unusual.
 
-But back to the song, it's "Baby Love Child" by the Japanese group _Pizzicato Five_, and you can listen to it below, courtesy of YouTube. The video shows frames of the Futurama episode.
-To give you some background: Turanga Leela, the girl with one eye, has grown up never knowing her parents. Everybody, herself included, thinks she's an alien. At the end of the episode, she finally meets her parents, and it turns out they're human mutants from the sewers, and they had decided to leave her in the human world, in a crib, with a note in alienese [sic] so humans wouldn't suspect her origins, and would give her a good upbringing. The sequence in the video shows how the parents always kept an eye on her from a distance, not wanting to be uncovered, but leaving her birthday presents, and looking out for her. Here it is:
+But back to the song, it's *Baby Love Child* by the Japanese group *Pizzicato Five*, and you can listen to it below, courtesy of YouTube.
 
-[youtube=http://www.youtube.com/watch?v=xqC_2wzWm-s&hl=en&fs=1]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lB-2IzAZk90" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Below is my old blurb that referred to another video, now deleted, of the same song.
+
+> The video shows frames of the Futurama episode.
+> To give you some background: Turanga Leela, the girl with one eye, has grown up never
+> knowing her parents. Everybody, herself included, thinks she's an alien. At the end of
+> the episode, she finally meets her parents, and it turns out they're human mutants
+> from the sewers, and they had decided to leave her in the human world, in a crib, with
+> a note in alienese [sic] so humans wouldn't suspect her origins, and would give her a
+> good upbringing. The sequence in the video shows how the parents always kept an
+> eye on her from a distance, not wanting to be uncovered, but leaving her birthday
+> presents, and looking out for her. Here it is:

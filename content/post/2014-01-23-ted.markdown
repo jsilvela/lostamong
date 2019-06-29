@@ -11,4 +11,4 @@ wordpress_id: 1098
 Long overdue critical talk, with snide reference to Malcolm Gladwell incorporated. Nice!
 Interestingly, this is the first time I see a TED talk where the talker doesn't get a standing ovation.
 
-[youtube http://www.youtube.com/watch?v=Yo5cKRmJaf0&w=560&h=315]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yo5cKRmJaf0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

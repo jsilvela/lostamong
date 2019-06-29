@@ -13,4 +13,4 @@ wordpress_id: 1032
 T'is a work of genius. Let me say I like Beyoncé.
 
 
-[youtube=http://youtu.be/JI1kq6CA_38]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JI1kq6CA_38" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

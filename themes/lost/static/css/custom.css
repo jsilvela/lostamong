@@ -25,7 +25,7 @@
 	font-weight: 700;
 	font-style: normal;
 	font-stretch: normal;
-	src: url('http://silvela.org/fonts/SourceSerifPro-Bold.otf.woff') format('woff');
+	src: url('../fonts/SourceSerifPro-Bold.otf.woff') format('woff');
 }
 
 @font-face{
@@ -33,7 +33,7 @@
 	font-weight: 400;
 	font-style: normal;
 	font-stretch: normal;
-	src: url('http://silvela.org/fonts/SourceSerifPro-Regular.otf.woff') format('woff');
+	src: url('../fonts/SourceSerifPro-Regular.otf.woff') format('woff');
 }
 
 @font-face{
@@ -41,7 +41,7 @@
 	font-weight: 400;
 	font-style: italic;
 	font-stretch: normal;
-	src: url('http://silvela.org/fonts/SourceSerifPro-It.otf.woff') format('woff');
+	src: url('../fonts/SourceSerifPro-It.otf.woff') format('woff');
 }
 
 
@@ -127,7 +127,7 @@ main {
 	margin-bottom: 2rem;
 	font-size: 1em;
 	font-variant: small-caps;
-	color: black;
+	color: #666;
 }
 
 .footer-link {

@@ -1,4 +1,4 @@
-baseurl: "http://silvela.org/jaime/lost/"
+baseurl: "https://silvela.org/jaime/lost/"
 canonifyurls: true
 disablePathToLower: true
 languageCode: "en-us"

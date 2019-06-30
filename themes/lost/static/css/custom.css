@@ -1,4 +1,5 @@
-@media screen {html {font-size: 23px;}}
+@media screen {html {font-size: 27px;}}
+@media screen and (max-width:2000px){html {font-size: 25px;}}
 @media screen and (max-width:1000px){html {font-size: 23px;}}
 @media screen and (max-width:760px){html {font-size: 20px;}}
 @media screen and (max-width:720px){html {font-size: 19px;}}
@@ -84,9 +85,9 @@ footer {
   text-align: center;
 }
 
-blockquote {
+blockquote, em {
 	font-style: italic;
-	font-family: "Source Serif Pro"
+	font-family: "Source Serif Pro";
 }
 
 main {
@@ -127,6 +128,7 @@ main {
 	margin-bottom: 2rem;
 	font-size: 1em;
 	font-variant: small-caps;
+	font-variant-caps: all-small-caps;
 	color: #666;
 }
 

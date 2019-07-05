@@ -11,22 +11,10 @@ wordpress_id: 213
 
 **You should try wet shaving if:**
 
-
-
-	
-  * Your skin is sensitive and gets damaged with shaving.
-
-	
-  * You don't enjoy your shaving routine.
-
-	
-  * You enjoy vintage gadgets.
-
-	
-  * You're fed up of expensive multi-blade cartridges.
-
-
-
+* Your skin is sensitive and gets damaged with shaving.
+* You don't enjoy your shaving routine.
+* You enjoy vintage gadgets.
+* You're fed up of expensive multi-blade cartridges.
 
 [![My shaving gear](http://jsilvela.smugmug.com/photos/392670324_RMtoh-S.jpg)](http://jsilvela.smugmug.com/photos/392670324_RMtoh-XL.jpg)
 

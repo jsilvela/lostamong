@@ -13,25 +13,16 @@ wordpress_id: 326
 ---
 
 [Note: if you want instructions on making yogurt, without the story, go
-[here]({{< relref "top/making-yogurt.md">}})]
+[here]({{< relref "/top/making-yogurt.md" >}})]
 
 Today I bring you one of those stories about the triumph of the human spirit that Hollywood is so fond of.
 
-In my [previous post on yogurt]({{<relref "2008-10-06-fun-with-milk.markdown">}}), I had described the whole process I used to make yogurt, and some of its limitations.
+In my [previous post on yogurt]({{< relref "/post/2008-10-06-fun-with-milk.markdown" >}}), I had described the whole process I used to make yogurt, and some of its limitations.
 To sum it up:
 
-
-
-	
-  * If I used ultra-pasteurized milk, I didn't need to heat it before incubation, and the yogurt would have a uniform, custardy texture.
-
-	
-  * If I used raw, or regularly pasteurized milk, and I didn't scald it before incubation, the yogurt developed an uneven texture, and leaked whey, which gave it a bad taste.
-
-	
-  * I had no way of controlling the incubation temperature.
-
-
+* If I used ultra-pasteurized milk, I didn't need to heat it before incubation, and the yogurt would have a uniform, custardy texture.
+* If I used raw, or regularly pasteurized milk, and I didn't scald it before incubation, the yogurt developed an uneven texture, and leaked whey, which gave it a bad taste.
+* I had no way of controlling the incubation temperature.
 
 You might have thought that, having found that ultra-pasteurized milk produced consistent results easily, I would have been satisfied and concluded my research. However, I am an obsessive fellow. My friend Tom once told me that all the computer programmers he knows have some form of OCD (Obsessive Compulsive Disorder), and I think he had a point.
 

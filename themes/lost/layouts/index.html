@@ -15,14 +15,16 @@
 
 	<!-- Posts -->
 {{ range where .Data.Pages "Params.fixed" "!=" "top"}}
-		<article>
-			<h2 class="entry-title">
-				<a href="{{ .RelPermalink }}">{{ .Title }}</a>
-			</h2>
-			<span class="entry-meta">
-				<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time>
-			</span>
-		</article>
+	<article>
+		<h2 class="entry-title">
+			<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+		</h2>
+		<span class="entry-meta">
+			<time datetime="{{ .Date.Format "2006-01-02" }}">
+				{{ .Date.Format "2006, January 02" }}
+			</time>
+		</span>
+	</article>
 {{ end }}
 
 	</main>

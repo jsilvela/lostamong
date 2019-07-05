@@ -29,4 +29,3 @@ is also outpacing offer.
 I suppose that, in time, things will adjust.
 For the moment though, one learns to expect poor service, high prices and
 rudeness from a rental market living through a craze.
-

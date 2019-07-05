@@ -140,7 +140,4 @@ main {
 	height: 1px;
 	margin: 2rem 0;
 	background: #E1E1E1;
-	background: -webkit-gradient(linear, left top, right top, from(white), color-stop(#E1E1E1), to(white));
-	background: -webkit-linear-gradient(left, white, #E1E1E1, white);
-	background: linear-gradient(to right, white, #E1E1E1, white);
 }

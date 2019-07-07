@@ -27,7 +27,7 @@ Here are some things I’ve learned:
 	
   * **Size is the most important factor for readability**. In the web, we're at the mercy of web designers. Some choose large sizes for text, some small. We end up reading text at smaller sizes than we should.
 Perform a little experiment: take a page printed in 11pt Times New Roman, or a book you're reading. Sit in front of your monitor, at your regular distance, and open a text document, set at the text size you usually read in (disable any zooming). Now hold the printed material in front of the monitor, at your normal distance for reading. Put the texts side by side, and adjust the font size until the screen text matches roughly. Is it surprisingly big?
-For me, it was. In order to match the sizes I read in printed material, I need point sizes around 18–20 on my desktop computer. Since I usually tried to read at 13-14, it's not surprising that I'd have eye strain. Here's a document that advocates [setting size to 3 times the lowest value at which you can read](http://www.wired.com/2013/09/flux-eyestrain/).
+For me, it was. In order to match the sizes I read in printed material, I need point sizes around 18–20 on my desktop computer. Since I usually tried to read at 13-14, it's not surprising that I'd have eye strain. Here's a document that advocates [setting size to 3 times the lowest value at which you can read](https://www.wired.com/2013/09/flux-eyestrain/).
 
 	
   * Your browser can help. In particular, both Firefox and Chrome will allow you to set your preferred “base” font size. This does not work on pages whose text size is specified in _absolute_ units (pixels or points). It does work, however, with sites that set font sizes in _relative_ units, like percentages, “ems” or medium/large/small/…
@@ -44,9 +44,9 @@ Safari, regrettably, doesn't offer the same convenient settings.
 References:
 
 	
-  1. Reducing eye strain: http://www.wired.com/2013/09/flux-eyestrain/
+  1. Reducing eye strain: https://www.wired.com/2013/09/flux-eyestrain/
 
 	
-  2. Font comparisons: http://usabilitynews.org/a-comparison-of-popular-online-fonts-which-is-best-and-when/
+  2. Font comparisons: https://usabilitynews.org/a-comparison-of-popular-online-fonts-which-is-best-and-when/
 
 

@@ -39,5 +39,5 @@ And sometimes I read stupid things like these:
 The last item comes from Michael Pollan's famous _Omnivore's Dilemma_ - yes, really.
 I like to think I'm pretty green, but I'm getting tired of all the sanctimony I get fed. I will continue to eat red meat. I will continue to eat fish. I tried the water filter, and Seattle tap water still tastes nasty. I don't know why nobody worries about plants's souls, or killing plants. And I continue to be surprised that over-population is rarely mentioned as an environmental threat.
 
-Here is a cartoon from the wonderful [xkcd](http://xkcd.com) that got a laugh out of me:
-[![xkcd comic](http://imgs.xkcd.com/comics/suv.png)](http://xkcd.com/437/)
+Here is a cartoon from the wonderful [xkcd](https://xkcd.com) that got a laugh out of me:
+[![xkcd comic](https://imgs.xkcd.com/comics/suv.png)](https://xkcd.com/437/)

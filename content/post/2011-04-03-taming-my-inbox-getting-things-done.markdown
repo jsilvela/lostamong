@@ -21,4 +21,4 @@ Then in the late summer of 2010 came the job hunt. The emails back and forth, un
 
 This weekend, I have again achieved an inbox at less than 10 messages, for the first time in over half a year.
 
-[![Photo & Video Sharing by SmugMug](http://jsilvela.smugmug.com/photos/1237905628_qziCS-S.jpg)](http://jsilvela.smugmug.com/Other/Blog-stuff/5915793_FPBVL#1237905628_qziCS-A-LB)
+[![Photo & Video Sharing by SmugMug](https://jsilvela.smugmug.com/photos/1237905628_qziCS-S.jpg)](https://jsilvela.smugmug.com/Other/Blog-stuff/5915793_FPBVL#1237905628_qziCS-A-LB)

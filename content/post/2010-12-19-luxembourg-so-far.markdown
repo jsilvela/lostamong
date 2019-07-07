@@ -13,13 +13,13 @@ And it has snowed almost every day since then. I'm growing tired of this, and lo
 
 View from my office:
 
-[![And again, view from the office.](http://jsilvela.smugmug.com/Other/Sueltas/IMG0045-3/1130207682_JQbw5-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM#1130207682_JQbw5-A-LB)
+[![And again, view from the office.](https://jsilvela.smugmug.com/Other/Sueltas/IMG0045-3/1130207682_JQbw5-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM#1130207682_JQbw5-A-LB)
 
 Christmas market, after warning of severe weather:
 
-[![And, another 10cm snow to fall that night.](http://jsilvela.smugmug.com/Other/Sueltas/IMG0036-3/1130192462_9hX8T-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM#1130192462_9hX8T-A-LB)
+[![And, another 10cm snow to fall that night.](https://jsilvela.smugmug.com/Other/Sueltas/IMG0036-3/1130192462_9hX8T-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM#1130192462_9hX8T-A-LB)
 
 The eerie trees are now familiar, and not eerie at all:
 
-[![The next morning, a white city](http://jsilvela.smugmug.com/Other/Sueltas/IMG0040-3/1130205887_AD9jC-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM#1130205887_AD9jC-A-LB)
+[![The next morning, a white city](https://jsilvela.smugmug.com/Other/Sueltas/IMG0040-3/1130205887_AD9jC-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM#1130205887_AD9jC-A-LB)
 

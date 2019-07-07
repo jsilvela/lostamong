@@ -41,8 +41,8 @@ Commercial yogurt makers don't offer control over incubation temperature. I know
 
 ## Temperature regulator
 
-The one I know is the Johnson Controls model A419. You can get it [here](http://www.blueridgecompany.com/radiant/hydronic/287/johnson-controls-a419-series).
+The one I know is the Johnson Controls model A419. You can get it [here](https://www.blueridgecompany.com/radiant/hydronic/287/johnson-controls-a419-series).
 
-[![The temperature regulator](http://jsilvela.smugmug.com/photos/434514571_Y2UKx-S.jpg)](http://jsilvela.smugmug.com/gallery/5019150_Y3JuM/1/434514571_Y2UKx#434514571_Y2UKx-A-LB)
+[![The temperature regulator](https://jsilvela.smugmug.com/photos/434514571_Y2UKx-S.jpg)](https://jsilvela.smugmug.com/gallery/5019150_Y3JuM/1/434514571_Y2UKx#434514571_Y2UKx-A-LB)
 
 Enjoy!

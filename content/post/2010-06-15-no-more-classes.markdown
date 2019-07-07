@@ -16,4 +16,4 @@ There were many good lectures, and a lot of material I didn't know. The labs wer
 
 I will not miss the smell of embalming fluid, though.
 
-[![](http://jsilvela.smugmug.com/Other/Anatomy-Lab/IMG0237-2-of-9/890993741_WEMjU-S.jpg)](http://jsilvela.smugmug.com/Other/Anatomy-Lab/12444833_tZp3b#890993741_WEMjU-A-LB)
+[![](https://jsilvela.smugmug.com/Other/Anatomy-Lab/IMG0237-2-of-9/890993741_WEMjU-S.jpg)](https://jsilvela.smugmug.com/Other/Anatomy-Lab/12444833_tZp3b#890993741_WEMjU-A-LB)

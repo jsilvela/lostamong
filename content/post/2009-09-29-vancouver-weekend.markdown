@@ -16,23 +16,23 @@ We had spectacular weather, although it got a bit chilly at times. Hey, what can
 
 Vancouver is a great city. It has an enormous park right next to the downtown area: Stanley Park, which is also by the shore, and next to the iconic Siwash Rock. You can see a Douglas fir on top:
 
-[![](http://jsilvela.smugmug.com/photos/663416100_nRnwf-S.jpg)](http://jsilvela.smugmug.com/Travel/Vancouver-09/9782153_wihAE/1/#663416100_nRnwf-A-LB)
+[![](https://jsilvela.smugmug.com/photos/663416100_nRnwf-S.jpg)](https://jsilvela.smugmug.com/Travel/Vancouver-09/9782153_wihAE/1/#663416100_nRnwf-A-LB)
 
 The walk to the rock was fun, as the sea was very choppy. You might think, from this photo, that it was open sea, but that is not the case. Vancouver's bay is the Strait of Georgia, and its access to the Pacific is blocked by the enormus Vancouver island. Still, the Strait of Georgia is big, much bigger than Puget sound, and clearly big enough for waves:
 
-[![](http://jsilvela.smugmug.com/photos/663415576_PS8Hf-S.jpg)](http://jsilvela.smugmug.com/Travel/Vancouver-09/9782153_wihAE/1/#663415576_PS8Hf-A-LB)
+[![](https://jsilvela.smugmug.com/photos/663415576_PS8Hf-S.jpg)](https://jsilvela.smugmug.com/Travel/Vancouver-09/9782153_wihAE/1/#663415576_PS8Hf-A-LB)
 
 There is also the spectacular Lions Gate bridge:
 
-[![](http://jsilvela.smugmug.com/photos/663416362_WpYtE-S.jpg)](http://jsilvela.smugmug.com/Travel/Vancouver-09/9782153_wihAE/1/#663416362_WpYtE-A-LB)
+[![](https://jsilvela.smugmug.com/photos/663416362_WpYtE-S.jpg)](https://jsilvela.smugmug.com/Travel/Vancouver-09/9782153_wihAE/1/#663416362_WpYtE-A-LB)
 
 Across the bridge is Grouse mountain, a pretty intense climb. It took us an hour and a half, the climb goes up around 1000m. It was good to get the exercise, but we could have taken the tram:
 
-[![](http://jsilvela.smugmug.com/photos/663417305_aosUu-S.jpg)](http://jsilvela.smugmug.com/Travel/Vancouver-09/9782153_wihAE/1/#663417305_aosUu-A-LB)
+[![](https://jsilvela.smugmug.com/photos/663417305_aosUu-S.jpg)](https://jsilvela.smugmug.com/Travel/Vancouver-09/9782153_wihAE/1/#663417305_aosUu-A-LB)
 
 Grouse mountain is also a ski mountain during winter, and the ski lift was operating. We took it, and got even better views:
 
-[![](http://jsilvela.smugmug.com/photos/663418847_24T9w-S.jpg)](http://jsilvela.smugmug.com/Travel/Vancouver-09/9782153_wihAE/1/#663418847_24T9w-A-LB)
+[![](https://jsilvela.smugmug.com/photos/663418847_24T9w-S.jpg)](https://jsilvela.smugmug.com/Travel/Vancouver-09/9782153_wihAE/1/#663418847_24T9w-A-LB)
 
 On Sunday we had a lazier day, and just drove to Lighthouse Park, again with plenty of views of the sea, and big trees.
 
@@ -42,8 +42,8 @@ Well, for one thing, on the way back to the old US, I got "selected for a random
 
 Here is my favorite piece of Canadian signage:
 
-[![](http://jsilvela.smugmug.com/photos/663414256_Rvu6X-S.jpg)](http://jsilvela.smugmug.com/Travel/Vancouver-09/9782153_wihAE/1/#663414256_Rvu6X-A-LB)
+[![](https://jsilvela.smugmug.com/photos/663414256_Rvu6X-S.jpg)](https://jsilvela.smugmug.com/Travel/Vancouver-09/9782153_wihAE/1/#663414256_Rvu6X-A-LB)
 
 I would like to redesign it to say: "Silence: Car Thieves Work Here - please be respectful of thieves earning their livelihood, try not to disturb them".
 
-Ah, yes, you can also see the [photo album](http://jsilvela.smugmug.com/Travel/Vancouver-09/9782153_wihAE/1/663414316_5Hu2T).
+Ah, yes, you can also see the [photo album](https://jsilvela.smugmug.com/Travel/Vancouver-09/9782153_wihAE/1/663414316_5Hu2T).

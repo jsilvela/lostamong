@@ -14,7 +14,7 @@ I wouldn't call the blog a failure, however. Quite the opposite. Aside from comm
 
 I like the pattern of creating blog articles so much, I've decided to use it to keep track of my heroic attempts to teach myself higher maths and physics, and in general, of technical tidbits that don't have a place in "Lost among Americans".
 
-So, this is an announcement of the birth of my new blog on the side: [Lost among notes](http://lostamongnotes.wordpress.com/)
+So, this is an announcement of the birth of my new blog on the side: [Lost among notes](https://lostamongnotes.wordpress.com/)
 I still have to figure how I'm going to put math equations on there, but I've written the first post.
 
 As much as I appreciate your patronage, dear readers, I don't expect you to follow the new blog. Just don't ask me "How's it going in Seattle?".

@@ -18,14 +18,14 @@ I'm using the Fuji more than I had anticipated. In bright light it can be almost
 
 Here are some evening sky photos taken with my little, loyal, camera.
 
-[![](http://jsilvela.smugmug.com/photos/365989622_jwDjJ-S.jpg)](http://jsilvela.smugmug.com/photos/365989622_jwDjJ-XL.jpg)
+[![](https://jsilvela.smugmug.com/photos/365989622_jwDjJ-S.jpg)](https://jsilvela.smugmug.com/photos/365989622_jwDjJ-XL.jpg)
 
-[![](http://jsilvela.smugmug.com/photos/367820518_VgudS-S.jpg)](http://jsilvela.smugmug.com/photos/367820518_VgudS-XL.jpg)
+[![](https://jsilvela.smugmug.com/photos/367820518_VgudS-S.jpg)](https://jsilvela.smugmug.com/photos/367820518_VgudS-XL.jpg)
 
-[![](http://jsilvela.smugmug.com/photos/367821716_yP9GT-S.jpg)](http://jsilvela.smugmug.com/photos/367821716_yP9GT-XL.jpg)
+[![](https://jsilvela.smugmug.com/photos/367821716_yP9GT-S.jpg)](https://jsilvela.smugmug.com/photos/367821716_yP9GT-XL.jpg)
 
-[![](http://jsilvela.smugmug.com/photos/357066423_pAjRG-S.jpg)](http://jsilvela.smugmug.com/photos/357066423_pAjRG-XL.jpg)
+[![](https://jsilvela.smugmug.com/photos/357066423_pAjRG-S.jpg)](https://jsilvela.smugmug.com/photos/357066423_pAjRG-XL.jpg)
 
-[![](http://jsilvela.smugmug.com/photos/352086734_3MhxD-S.jpg)](http://jsilvela.smugmug.com/photos/352086734_3MhxD-XL.jpg)
+[![](https://jsilvela.smugmug.com/photos/352086734_3MhxD-S.jpg)](https://jsilvela.smugmug.com/photos/352086734_3MhxD-XL.jpg)
 
-[![](http://jsilvela.smugmug.com/photos/352085858_yh9Wf-S.jpg)](http://jsilvela.smugmug.com/photos/352085858_yh9Wf-XL.jpg)
+[![](https://jsilvela.smugmug.com/photos/352085858_yh9Wf-S.jpg)](https://jsilvela.smugmug.com/photos/352085858_yh9Wf-XL.jpg)

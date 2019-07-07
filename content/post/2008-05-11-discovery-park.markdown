@@ -27,5 +27,5 @@ Seattle is a good place to walk, and, being a small city, you can cover it easil
 Back to Discovery Park - I think calling it a park is an understatement, it's more like woods or a forest, and it also has fantastic views of Puget Sound. In the center it's so heavily lined with trees and bushes that you can tell the difference in the air, which is much cooler and more humid than just outside the park.
 
 
-[![](http://bp3.blogger.com/_H7Kz0sBEh7U/SCfLnqaYFvI/AAAAAAAACdY/TIQrsA93udk/s400/_MG_3616.jpg)](http://bp3.blogger.com/_H7Kz0sBEh7U/SCfLnqaYFvI/AAAAAAAACdY/TIQrsA93udk/s1600-h/_MG_3616.jpg)
-[![](http://bp3.blogger.com/_H7Kz0sBEh7U/SCfLnqaYFwI/AAAAAAAACdg/C4d5gxPLc_w/s400/_MG_3631.jpg)](http://bp3.blogger.com/_H7Kz0sBEh7U/SCfLnqaYFwI/AAAAAAAACdg/C4d5gxPLc_w/s1600-h/_MG_3631.jpg)
+[![](https://bp3.blogger.com/_H7Kz0sBEh7U/SCfLnqaYFvI/AAAAAAAACdY/TIQrsA93udk/s400/_MG_3616.jpg)](https://bp3.blogger.com/_H7Kz0sBEh7U/SCfLnqaYFvI/AAAAAAAACdY/TIQrsA93udk/s1600-h/_MG_3616.jpg)
+[![](https://bp3.blogger.com/_H7Kz0sBEh7U/SCfLnqaYFwI/AAAAAAAACdg/C4d5gxPLc_w/s400/_MG_3631.jpg)](https://bp3.blogger.com/_H7Kz0sBEh7U/SCfLnqaYFwI/AAAAAAAACdg/C4d5gxPLc_w/s1600-h/_MG_3631.jpg)

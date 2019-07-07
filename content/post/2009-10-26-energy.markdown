@@ -18,7 +18,7 @@ I discovered, a long time ago, that several of the power outlets in my living ro
 
 I've recently bought a little toy, a watt-meter called the Kill-a-Watt.
 
-[![](http://jsilvela.smugmug.com/Other/Sueltas/IMG6543/692876562_UHUzX-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/1/#692876562_UHUzX-A-LB)
+[![](https://jsilvela.smugmug.com/Other/Sueltas/IMG6543/692876562_UHUzX-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/1/#692876562_UHUzX-A-LB)
 
 This little box will tell you how much current, voltage and energy your equipment is drawing.
 To my great surprise, the news was almost all good.

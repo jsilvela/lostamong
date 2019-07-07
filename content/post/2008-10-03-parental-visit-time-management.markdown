@@ -19,33 +19,33 @@ Visits give my time a new purpose. My objective during visits is to get out of w
 Now I'm again racing against time. Autumn is the one season of the year where I tend to win this race.
 
 Volunteers Park, near home:
-[![In Volunteers Park](http://jsilvela.smugmug.com/photos/379317963_aDjsq-S.jpg)](http://jsilvela.smugmug.com/photos/379317963_aDjsq-XL.jpg)
+[![In Volunteers Park](https://jsilvela.smugmug.com/photos/379317963_aDjsq-S.jpg)](https://jsilvela.smugmug.com/photos/379317963_aDjsq-XL.jpg)
 
-[![Volunteers Park](http://jsilvela.smugmug.com/photos/379318994_Gjt6Q-S.jpg)](http://jsilvela.smugmug.com/photos/379318994_Gjt6Q-XL.jpg)
+[![Volunteers Park](https://jsilvela.smugmug.com/photos/379318994_Gjt6Q-S.jpg)](https://jsilvela.smugmug.com/photos/379318994_Gjt6Q-XL.jpg)
 
-[![Volunteers Park](http://jsilvela.smugmug.com/photos/379319365_yLDz4-S.jpg)](http://jsilvela.smugmug.com/photos/379319365_yLDz4-XL.jpg)
+[![Volunteers Park](https://jsilvela.smugmug.com/photos/379319365_yLDz4-S.jpg)](https://jsilvela.smugmug.com/photos/379319365_yLDz4-XL.jpg)
 
 In Discovery Park
 
-[![Discovery Park](http://jsilvela.smugmug.com/photos/379319754_4ZtAC-S.jpg)](http://jsilvela.smugmug.com/photos/379319754_4ZtAC-XL.jpg)
+[![Discovery Park](https://jsilvela.smugmug.com/photos/379319754_4ZtAC-S.jpg)](https://jsilvela.smugmug.com/photos/379319754_4ZtAC-XL.jpg)
 
-[![Discovery Park](http://jsilvela.smugmug.com/photos/379320253_8PuXZ-S.jpg)](http://jsilvela.smugmug.com/photos/379320253_8PuXZ-XL.jpg)
+[![Discovery Park](https://jsilvela.smugmug.com/photos/379320253_8PuXZ-S.jpg)](https://jsilvela.smugmug.com/photos/379320253_8PuXZ-XL.jpg)
 
-[![Discovery Park](http://jsilvela.smugmug.com/photos/379320736_LBGEu-S.jpg)](http://jsilvela.smugmug.com/photos/379320736_LBGEu-XL.jpg)
+[![Discovery Park](https://jsilvela.smugmug.com/photos/379320736_LBGEu-S.jpg)](https://jsilvela.smugmug.com/photos/379320736_LBGEu-XL.jpg)
 
-[![Discovery Park](http://jsilvela.smugmug.com/photos/379322236_MdQy8-S.jpg)](http://jsilvela.smugmug.com/photos/379322236_MdQy8-XL.jpg)
+[![Discovery Park](https://jsilvela.smugmug.com/photos/379322236_MdQy8-S.jpg)](https://jsilvela.smugmug.com/photos/379322236_MdQy8-XL.jpg)
 
-[![Discovery Park](http://jsilvela.smugmug.com/photos/379322714_C4si8-S.jpg)](http://jsilvela.smugmug.com/photos/379322714_C4si8-XL.jpg)
+[![Discovery Park](https://jsilvela.smugmug.com/photos/379322714_C4si8-S.jpg)](https://jsilvela.smugmug.com/photos/379322714_C4si8-XL.jpg)
 
-[![Discovery Park](http://jsilvela.smugmug.com/photos/379323258_smPnq-S.jpg)](http://jsilvela.smugmug.com/photos/379323258_smPnq-XL.jpg)
+[![Discovery Park](https://jsilvela.smugmug.com/photos/379323258_smPnq-S.jpg)](https://jsilvela.smugmug.com/photos/379323258_smPnq-XL.jpg)
 
-[![Discovery Park](http://jsilvela.smugmug.com/photos/379323515_Zqjih-S.jpg)](http://jsilvela.smugmug.com/photos/379323515_Zqjih-XL.jpg)
+[![Discovery Park](https://jsilvela.smugmug.com/photos/379323515_Zqjih-S.jpg)](https://jsilvela.smugmug.com/photos/379323515_Zqjih-XL.jpg)
 
 Home:
 
-[![Home](http://jsilvela.smugmug.com/photos/381016909_qiWcS-S.jpg)](http://jsilvela.smugmug.com/photos/381016909_qiWcS-XL.jpg)
+[![Home](https://jsilvela.smugmug.com/photos/381016909_qiWcS-S.jpg)](https://jsilvela.smugmug.com/photos/381016909_qiWcS-XL.jpg)
 
-[![Home](http://jsilvela.smugmug.com/photos/381016695_YHyts-S.jpg)](http://jsilvela.smugmug.com/photos/381016695_YHyts-XL.jpg)
+[![Home](https://jsilvela.smugmug.com/photos/381016695_YHyts-S.jpg)](https://jsilvela.smugmug.com/photos/381016695_YHyts-XL.jpg)
 
 
 

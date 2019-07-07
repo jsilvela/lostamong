@@ -37,7 +37,7 @@ The problems remained that I hated the constant stirring to avoid burning the mi
 With the new knowledge and the new gear, I set out to make yogurt from raw, or regularly pasteurized, milk, by scalding the milk over low heat, and keeping it under 150 Fahrenheit (65 Celsius). Once I took some measurements and timings, I was able to leave the pot mostly unattended.
 This was a step forward. The yogurt came out much more even, and with a milder texture. The milk skin problem was gone, and even the taste improved. Still, the yogurt leaked whey.
 
-![The cast iron pot](http://jsilvela.smugmug.com/photos/408466444_3ZA2d-S.jpg)
+![The cast iron pot](https://jsilvela.smugmug.com/photos/408466444_3ZA2d-S.jpg)
 
 McGee had one last piece of information. According to his book, the incubation temperature plays a role on the texture of yogurt. The bacilli in yogurt thrive mainly in a range of temperatures: 90-110F, or 32-43C. On the hot end of the range, the fermentation is fastest, but it produces  a coarse grid that leaks whey. On the cold end of the range, the fermentation is slowest, but it produces a finer texture that traps whey.
 
@@ -50,6 +50,6 @@ I got it on Monday, and was glad to find that I needed to build the cables to ho
 
 I immediately put my new setup to the test: I made yogurt  from raw milk, not heated at all, with the regulator's thermostat set to 90F (32C). The resulting yogurt was fantastic. A very smooth texture, a little runny but with no leaked whey to be found. The raw milk I buy comes from Jersey cows, and so has more cream content than most milk (which comes primarily from Holstein cows). All in all, this raw yogurt has great potential.
 
-[![The temperature regulator](http://jsilvela.smugmug.com/photos/434514571_Y2UKx-S.jpg)](http://jsilvela.smugmug.com/gallery/5019150_Y3JuM/1/434514571_Y2UKx#434514571_Y2UKx-A-LB)
+[![The temperature regulator](https://jsilvela.smugmug.com/photos/434514571_Y2UKx-S.jpg)](https://jsilvela.smugmug.com/gallery/5019150_Y3JuM/1/434514571_Y2UKx#434514571_Y2UKx-A-LB)
 
 I think this concludes my "engineering" investigation of the lore of yogurt, but who knows?

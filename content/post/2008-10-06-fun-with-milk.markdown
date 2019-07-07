@@ -24,7 +24,7 @@ The basic process of making yogurt is pretty simple:
 1. Add the starter cultures
 1. Let it incubate at a warm temperature
 
-Here is a [detailed guide on making yogurt](http://www.breakingtheviciouscycle.info/beginners_guide/yoghurt/yog_pict_guide.htm).
+Here is a [detailed guide on making yogurt](https://www.breakingtheviciouscycle.info/beginners_guide/yoghurt/yog_pict_guide.htm).
 
 There are four parameters you can control when making plain yogurt:
 
@@ -167,11 +167,11 @@ best of cases, the flavor will be unchanged from adding the berries after
 fermentation. All the sources I've read recommend adding the fruit, or the
 honey, after fermentation.
 
-[![Gooseberry yogurt](http://jsilvela.smugmug.com/photos/357476092_onseo-S.jpg)](http://jsilvela.smugmug.com/photos/357476092_onseo-XL.jpg)
+[![Gooseberry yogurt](https://jsilvela.smugmug.com/photos/357476092_onseo-S.jpg)](https://jsilvela.smugmug.com/photos/357476092_onseo-XL.jpg)
 
 I'm pretty happy with the yogurt I make, but it's not the best I've had. That
 merit belongs to
-[White Cow Dairy](http://www.whitecowdairy.com/wcd/White_Cow_Dairy.html), which
+[White Cow Dairy](https://www.whitecowdairy.com/wcd/White_Cow_Dairy.html), which
 has a level of refinement I cannot reach. I contacted the owner once, and he
 told me his secret was to start out with great milk, and then do as little as
 possible to it. I have no clue what he meant.

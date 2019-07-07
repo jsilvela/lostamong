@@ -15,12 +15,12 @@ I'm back in Seattle after some vacation. I wish I had more.
 
 One of the things I wanted to do in Madrid was rescue the old Commodore VIC20 from oblivion in the garage. I've been reading a book on the history of Commodore, and it has stirred some memories. The VIC20 was the first computer we had in our family. I remember being very excited about it. Today, it is a quaint machine.
 
-[![VIC20](http://jsilvela.smugmug.com/photos/650095317_Hni9j-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/1/#650095317_Hni9j-A-LB)
+[![VIC20](https://jsilvela.smugmug.com/photos/650095317_Hni9j-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/1/#650095317_Hni9j-A-LB)
 
 As you can see, there are less than 4K of memory. No hard drive nor floppy disk drive. No mouse (actually, that isn't half bad). And yet, I have fonder memories of the VIC20 than of most of the computers I've used since. Why?
 One  reason can be seen in this photo:
 
-[![](http://jsilvela.smugmug.com/photos/650095410_hbmda-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/0/#650095410_hbmda-A-LB)
+[![](https://jsilvela.smugmug.com/photos/650095410_hbmda-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/0/#650095410_hbmda-A-LB)
 
 The machine came with programming manuals. We used it to play games, but we also tried little programs. The instruction manuals taught the BASIC language, and showed how to make sounds and images. Larger programming projects were almost always games. Javier wrote his own game, which I played often. We had clones of such arcade classics as _Scramble_ and _Frogger_.
 

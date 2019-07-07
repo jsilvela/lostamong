@@ -14,11 +14,11 @@ This is what's good and bad about the Seattle area: the mountains are so near, b
 
 Once we had left the car and had our backpacks on, it was a mild hike. We got to the campground quickly, napped, scouted around, chatted with other hikers, and played board games. I even caught up with some sleep!
 
-[![Board games.](http://jsilvela.smugmug.com/Hikes/Olympic-Peninsula-Aug-2010/IMG0690/973768540_qzPFa-S.jpg)](http://jsilvela.smugmug.com/Hikes/Olympic-Peninsula-Aug-2010/13374396_sGhtG#973768540_qzPFa-A-LB)
+[![Board games.](https://jsilvela.smugmug.com/Hikes/Olympic-Peninsula-Aug-2010/IMG0690/973768540_qzPFa-S.jpg)](https://jsilvela.smugmug.com/Hikes/Olympic-Peninsula-Aug-2010/13374396_sGhtG#973768540_qzPFa-A-LB)
 
 More photos:
-[JP's album](http://jcummins.smugmug.com/Camping/Olympics-2010/13354906_9GnJZ#970936202_QhLmF) 
-[My album](http://jsilvela.smugmug.com/Hikes/Olympic-Peninsula-Aug-2010/13374396_sGhtG#972647372_aCbm5) 
+[JP's album](https://jcummins.smugmug.com/Camping/Olympics-2010/13354906_9GnJZ#970936202_QhLmF) 
+[My album](https://jsilvela.smugmug.com/Hikes/Olympic-Peninsula-Aug-2010/13374396_sGhtG#972647372_aCbm5) 
 
 
 

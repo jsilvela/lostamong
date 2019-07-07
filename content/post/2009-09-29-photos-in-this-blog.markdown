@@ -12,4 +12,4 @@ I just wanted to mention, in case you're not aware, that when you see a small ph
 
 Here's an example.
 
-[![](http://jsilvela.smugmug.com/photos/588473690_h2YSz-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/1/#588473690_h2YSz-A-LB)
+[![](https://jsilvela.smugmug.com/photos/588473690_h2YSz-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/1/#588473690_h2YSz-A-LB)

@@ -12,7 +12,7 @@ It’s not news that there are lots of lies in the news. It doesn’t just come 
 We live in a world that has vast quantities of research and knowledge, but where everyone wants to fit complex knowledge into bite-sized pills. No room for accuracy or subtlety.
 
 An example: I’ve been following debates in the Spanish media after the rise of left-wing party Podemos. In one debate, its leader defended an increase of the minimum wage. Several of the journalists in the debate protested: “You know, of course, that that will lead to increased unemployment!”. And of course, that’s common sense, right? If the owner of a bar needs to pay more to his employees, he will employ fewer people.
-But, from the [Wikipedia page for minimum wage:](http://en.wikipedia.org/wiki/Minimum_wage)
+But, from the [Wikipedia page for minimum wage:](https://en.wikipedia.org/wiki/Minimum_wage)
 
 
 <blockquote>

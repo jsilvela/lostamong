@@ -12,6 +12,6 @@ My apartment has such a good view of the Space Needle, I thought it would be nic
 
 Mission accomplished. We toasted 2010 and avoided crowds and parties.
 
-[![](http://jsilvela.smugmug.com/Other/Sueltas/IMG6586/755492642_wcDmv-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/1/#755492642_wcDmv-A-LB)
+[![](https://jsilvela.smugmug.com/Other/Sueltas/IMG6586/755492642_wcDmv-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/1/#755492642_wcDmv-A-LB)
 
-[![](http://jsilvela.smugmug.com/Other/Sueltas/IMG6587/755492698_6r46D-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/1/#755492698_6r46D-A-LB)
+[![](https://jsilvela.smugmug.com/Other/Sueltas/IMG6587/755492698_6r46D-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/1/#755492698_6r46D-A-LB)

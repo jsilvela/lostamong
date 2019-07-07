@@ -21,7 +21,7 @@ It said that stereo playback itself is limited by physics, and that multichannel
 Sound is a wave, and like all waves, it is susceptible to _interference_. When two identical waves fire from different places, there are points in space at which they fight each other, and other points in space where they reinforce each other.
 You can find plenty on wikipedia about interference in wave propagation, but here's an animated picture:
 
-![Wave interference](http://upload.wikimedia.org/wikipedia/commons/2/2c/Two_sources_interference.gif)
+![Wave interference](https://upload.wikimedia.org/wikipedia/commons/2/2c/Two_sources_interference.gif)
 
 Now, the pattern of interference depends on the frequency of the wave. In the case of audio, that means that if you play the same exact sound from your left and right speakers, in your ears some frequencies will sound louder, and some softer, than they would coming from a single speaker. Moreover, the effect is location-dependent.
 

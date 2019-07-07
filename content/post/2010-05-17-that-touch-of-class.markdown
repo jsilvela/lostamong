@@ -13,6 +13,6 @@ This weekend, my old landlord, Greg, had a farewell gathering at my (his) old ap
 Greg, on greeting me, told me that some of the decorator's choices were not necessarily his own.
 I am of the same opinion:
 
-[![](http://jsilvela.smugmug.com/Other/Sueltas/IMG0003/869169955_rZZaq-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM#869169955_rZZaq-A-LB)
+[![](https://jsilvela.smugmug.com/Other/Sueltas/IMG0003/869169955_rZZaq-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM#869169955_rZZaq-A-LB)
 
 And I didn't take a picture of the fake animal fur rugs and African vases in the living room!

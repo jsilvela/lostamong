@@ -8,7 +8,7 @@ url: /2010/09/02/rules-for-writing/
 wordpress_id: 859
 ---
 
-While browsing aimlessly, I happened upon an article on The Guardian on [rules for writing](http://www.guardian.co.uk/books/2010/feb/20/ten-rules-for-writing-fiction-part-one).
+While browsing aimlessly, I happened upon an article on The Guardian on [rules for writing](https://www.guardian.co.uk/books/2010/feb/20/ten-rules-for-writing-fiction-part-one).
 I was completely taken with Elmore Leonard's advice. Some excerpts:
 
 

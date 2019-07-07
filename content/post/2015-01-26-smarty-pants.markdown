@@ -12,4 +12,4 @@ Ah, Interstellar. On one hand, I like seeing really ambitious movies, like they 
 
 The plot twists from Interstellar remind me of this excerpt from a great South Park episode.
 
-[South Park mind benders](http://southpark.cc.com/clips/151771/scruples)
+[South Park mind benders](https://southpark.cc.com/clips/151771/scruples)

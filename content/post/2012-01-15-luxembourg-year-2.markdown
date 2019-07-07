@@ -12,12 +12,12 @@ How time flies. I don't have the feeling of a year having gone by in Europe, and
 
 So far, the first two weeks of the new year have brought hiking and some good sunsets. I'm glad I didn't listen to the Luxembourg naysayers. Now for more questing.
 
-[![With Hartmut, going to Esch sur Sure](http://jsilvela.smugmug.com/Other/Sueltas/i-d996TzV/0/S/IMG1335-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#!i=1672809832&k=d996TzV&lb=1&s=A)
+[![With Hartmut, going to Esch sur Sure](https://jsilvela.smugmug.com/Other/Sueltas/i-d996TzV/0/S/IMG1335-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#!i=1672809832&k=d996TzV&lb=1&s=A)
 
-[![](http://jsilvela.smugmug.com/Other/Sueltas/i-FJQCqRq/0/S/IMG1339-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#!i=1672812359&k=FJQCqRq&lb=1&s=A)
+[![](https://jsilvela.smugmug.com/Other/Sueltas/i-FJQCqRq/0/S/IMG1339-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#!i=1672812359&k=FJQCqRq&lb=1&s=A)
 
-[![](http://jsilvela.smugmug.com/Other/Sueltas/i-kkqq3qc/0/S/IMG1080-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#!i=1672815643&k=kkqq3qc&lb=1&s=A)
+[![](https://jsilvela.smugmug.com/Other/Sueltas/i-kkqq3qc/0/S/IMG1080-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#!i=1672815643&k=kkqq3qc&lb=1&s=A)
 
 
-[![Photo & Video Sharing by SmugMug](http://jsilvela.smugmug.com/Other/Sueltas/i-ppfz2sD/0/S/IMG1081-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#!i=1672817444&k=ppfz2sD&lb=1&s=A)
+[![Photo & Video Sharing by SmugMug](https://jsilvela.smugmug.com/Other/Sueltas/i-ppfz2sD/0/S/IMG1081-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#!i=1672817444&k=ppfz2sD&lb=1&s=A)
 

@@ -11,23 +11,23 @@ wordpress_id: 984
 Saturday last week, I took the train to Cologne. Florian and I were going there to run the marathon and half marathon.
 Cologne boasts an impressive cathedral and several bridges that cross the Rhine.
 
-[![Photo & Video Sharing by SmugMug](http://jsilvela.smugmug.com/Other/Sueltas/i-gfVKgpV/0/S/IMG1007-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520058959_gfVKgpV-A-LB)
+[![Photo & Video Sharing by SmugMug](https://jsilvela.smugmug.com/Other/Sueltas/i-gfVKgpV/0/S/IMG1007-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520058959_gfVKgpV-A-LB)
 
-[![Photo & Video Sharing by SmugMug](http://jsilvela.smugmug.com/Other/Sueltas/i-4CksxQp/0/S/IMG1008-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520059899_4CksxQp-A-LB)
+[![Photo & Video Sharing by SmugMug](https://jsilvela.smugmug.com/Other/Sueltas/i-4CksxQp/0/S/IMG1008-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520059899_4CksxQp-A-LB)
 
 In the morning I had to go to the marathon expo to get our materials for the race. Florian would arrive later in the day. It was beautiful weather, and I strolled around, impressed by the liveliness and the easy rhythm of Cologne.
 
-[![Photo & Video Sharing by SmugMug](http://jsilvela.smugmug.com/Other/Sueltas/i-TJdGNcB/0/S/IMG1017-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520062492_TJdGNcB-A-LB)
+[![Photo & Video Sharing by SmugMug](https://jsilvela.smugmug.com/Other/Sueltas/i-TJdGNcB/0/S/IMG1017-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520062492_TJdGNcB-A-LB)
 
-[![Photo & Video Sharing by SmugMug](http://jsilvela.smugmug.com/Other/Sueltas/i-HwNV26G/0/S/IMG1021-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520063576_HwNV26G-A-LB)
+[![Photo & Video Sharing by SmugMug](https://jsilvela.smugmug.com/Other/Sueltas/i-HwNV26G/0/S/IMG1021-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520063576_HwNV26G-A-LB)
 
 Florian arrived after 6. We had a good walk at dusk, and I was mesmerized by the color of the sky. After a meaty dinner, it was off to bed.
 
-[![Photo & Video Sharing by SmugMug](http://jsilvela.smugmug.com/Other/Sueltas/i-GkkZk8Z/0/S/IMG1042-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520069760_GkkZk8Z-A-LB)
+[![Photo & Video Sharing by SmugMug](https://jsilvela.smugmug.com/Other/Sueltas/i-GkkZk8Z/0/S/IMG1042-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520069760_GkkZk8Z-A-LB)
 
-[![Photo & Video Sharing by SmugMug](http://jsilvela.smugmug.com/Other/Sueltas/i-n6k2qJZ/0/S/IMG1049-2-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520072663_n6k2qJZ-A-LB)
+[![Photo & Video Sharing by SmugMug](https://jsilvela.smugmug.com/Other/Sueltas/i-n6k2qJZ/0/S/IMG1049-2-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520072663_n6k2qJZ-A-LB)
 
-[![Photo & Video Sharing by SmugMug](http://jsilvela.smugmug.com/Other/Sueltas/i-PgqFBbP/0/S/IMG1055-2-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520075071_PgqFBbP-A-LB)
+[![Photo & Video Sharing by SmugMug](https://jsilvela.smugmug.com/Other/Sueltas/i-PgqFBbP/0/S/IMG1055-2-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520075071_PgqFBbP-A-LB)
 
 We had breakfast at 8:30 on Sunday, then changed and walked to to start line. The race was to begin near noon.
 
@@ -46,11 +46,11 @@ I was tempted to quit, but I also knew that I could make it, even if I had to wa
 I stopped to walk two more times, but I was still able to run decently, on autopilot. Crossing kilometer 40 was a relief, but it didn't bring a jolt of energy or of adrenaline. I had no extra wind left.
 I crossed the finish line in a huge sigh, proud of myself, but also wondering why I had put myself through this. Why anyone did.
 
-[![Photo & Video Sharing by SmugMug](http://jsilvela.smugmug.com/Other/Sueltas/i-WtP4KB6/0/S/cp20x30-KKAK1627-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520079615_WtP4KB6-A-LB)
+[![Photo & Video Sharing by SmugMug](https://jsilvela.smugmug.com/Other/Sueltas/i-WtP4KB6/0/S/cp20x30-KKAK1627-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520079615_WtP4KB6-A-LB)
 
-[![Photo & Video Sharing by SmugMug](http://jsilvela.smugmug.com/Other/Sueltas/i-34W8RqW/0/S/rt20x30-KKAF0622-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520080538_34W8RqW-A-LB)
+[![Photo & Video Sharing by SmugMug](https://jsilvela.smugmug.com/Other/Sueltas/i-34W8RqW/0/S/rt20x30-KKAF0622-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520080538_34W8RqW-A-LB)
 
-[![](http://jsilvela.smugmug.com/Other/Sueltas/i-xmrh269/0/S/20x30-KKBV2133-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520080918_xmrh269-A-LB)
+[![](https://jsilvela.smugmug.com/Other/Sueltas/i-xmrh269/0/S/20x30-KKBV2133-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_VjW39L#1520080918_xmrh269-A-LB)
 
 Even on the walk back to my hotel, I had to take breaks and sit. My legs were spent.
 Back in the hotel I met Florian, who had very wisely decided he was undertrained for the marathon, and had run 21km. Our hotel (Hotel Lyskirchen) graciously allowed us to have showers in the sauna area, even though we were already checked out. I vomited a bit, and didn't feel like eating. The stomach problems lasted only a few hours, and Florian and I enjoyed a nice dinner back in Luxembourg.

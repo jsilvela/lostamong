@@ -47,9 +47,9 @@ up coming to my apartment, and having a mini-party. I mostly have electronica,
 and almost no hip-hop, but J.P. had his iPod on him, so we hooked it to my hi-fi
 set, and the Americans were happy. We stayed up pretty late, it was a good time.
 
-[![The train](http://jsilvela.smugmug.com/photos/335407422_rizJT-S.jpg)](http://jsilvela.smugmug.com/photos/335407422_rizJT-XL.jpg)
+[![The train](https://jsilvela.smugmug.com/photos/335407422_rizJT-S.jpg)](https://jsilvela.smugmug.com/photos/335407422_rizJT-XL.jpg)
 
-[![J.P, Christina and Elia](http://jsilvela.smugmug.com/photos/335408004_UxTTz-S.jpg)](http://jsilvela.smugmug.com/photos/335408004_UxTTz-XL.jpg)
+[![J.P, Christina and Elia](https://jsilvela.smugmug.com/photos/335408004_UxTTz-S.jpg)](https://jsilvela.smugmug.com/photos/335408004_UxTTz-XL.jpg)
 
 Today, Sunday, I wanted to go to Alki beach, in West Seattle. The water was too
 cold to bathe, and I didn't want a beach plan, but I had never been there, and

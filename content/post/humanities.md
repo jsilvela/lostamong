@@ -22,4 +22,4 @@ are people who would rather study literature, or music, or philology, then those
 
 I don’t understand this eternal push to make everybody miserable.
 
-[*] [To Write Better Code, Read Virginia Woolf](http://nyti.ms/241UlaM)
+[*] [To Write Better Code, Read Virginia Woolf](https://nyti.ms/241UlaM)

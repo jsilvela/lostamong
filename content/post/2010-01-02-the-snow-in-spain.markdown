@@ -12,8 +12,8 @@ This year, several friends asked me if it would be warm and sunny in Spain, when
 This year it snowed while I was there.
 So there.
 
-[![](http://jsilvela.smugmug.com/Other/Sueltas/IMG6547/752831143_ULZYg-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/1/#752831143_ULZYg-A-LB)
+[![](https://jsilvela.smugmug.com/Other/Sueltas/IMG6547/752831143_ULZYg-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/1/#752831143_ULZYg-A-LB)
 
-[![](http://jsilvela.smugmug.com/Other/Sueltas/IMG6559/752831673_aSGja-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/1/#752831673_aSGja-A-LB)
+[![](https://jsilvela.smugmug.com/Other/Sueltas/IMG6559/752831673_aSGja-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/1/#752831673_aSGja-A-LB)
 
-[![](http://jsilvela.smugmug.com/Other/Sueltas/IMG6564/752832154_AE6LH-S.jpg)](http://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/1/#752832154_AE6LH-A-LB)
+[![](https://jsilvela.smugmug.com/Other/Sueltas/IMG6564/752832154_AE6LH-S.jpg)](https://jsilvela.smugmug.com/Other/Sueltas/5019150_Y3JuM/1/#752832154_AE6LH-A-LB)

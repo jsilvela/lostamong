@@ -15,7 +15,7 @@ I moved into the new place on Thursday, and since then I've been arranging my th
   
 
 
-When I was looking for apartments there was a handy little tool I kept using, [walkscore](http://walkscore.com/). It's a website that measures how dependent you would be on having a car, if you lived at a given address. The address gets a score from 0 to 100, 100 meaning you can do everything on foot. There is also a little map showing you the nearest grocers, banks, restaurants, parks...
+When I was looking for apartments there was a handy little tool I kept using, [walkscore](https://walkscore.com/). It's a website that measures how dependent you would be on having a car, if you lived at a given address. The address gets a score from 0 to 100, 100 meaning you can do everything on foot. There is also a little map showing you the nearest grocers, banks, restaurants, parks...
 
 My new apartment scores a very respectable 92. I was curious to see what my old place in New York would score, and of course, it got 100.
 
@@ -47,4 +47,4 @@ The apartment is fantastic. Yes, the floors are hardwood, which I was about to g
 
 
   
-[![](http://bp1.blogger.com/_H7Kz0sBEh7U/SDDBK6aYF3I/AAAAAAAACe4/DJd7BBYzrnE/s400/_MG_3646.jpg)](http://bp1.blogger.com/_H7Kz0sBEh7U/SDDBK6aYF3I/AAAAAAAACe4/DJd7BBYzrnE/s1600-h/_MG_3646.jpg)
+[![](https://bp1.blogger.com/_H7Kz0sBEh7U/SDDBK6aYF3I/AAAAAAAACe4/DJd7BBYzrnE/s400/_MG_3646.jpg)](https://bp1.blogger.com/_H7Kz0sBEh7U/SDDBK6aYF3I/AAAAAAAACe4/DJd7BBYzrnE/s1600-h/_MG_3646.jpg)

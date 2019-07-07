@@ -16,14 +16,14 @@ wordpress_id: 213
 * You enjoy vintage gadgets.
 * You're fed up of expensive multi-blade cartridges.
 
-[![My shaving gear](http://jsilvela.smugmug.com/photos/392670324_RMtoh-S.jpg)](http://jsilvela.smugmug.com/photos/392670324_RMtoh-XL.jpg)
+[![My shaving gear](https://jsilvela.smugmug.com/photos/392670324_RMtoh-S.jpg)](https://jsilvela.smugmug.com/photos/392670324_RMtoh-XL.jpg)
 
-The most important resource is information. You can find tons of it, including recommendations for gear, stores and techniques, in the online community [Badger and Blade](http://badgerandblade.com/).
+The most important resource is information. You can find tons of it, including recommendations for gear, stores and techniques, in the online community [Badger and Blade](https://badgerandblade.com/).
 
 **Online Stores**
-[ClassicShaving.com](http://www.classicshaving.com/Home.html)
-[Enchante online](http://www.enchanteonline.com/)
-[QED wet shaving](http://www.qedusa.com/)
+[ClassicShaving.com](https://www.classicshaving.com/Home.html)
+[Enchante online](https://www.enchanteonline.com/)
+[QED wet shaving](https://www.qedusa.com/)
 
 **Money**
 The gear for quality shaving is more expensive than the regular stuff you can buy at the drug store. It is a good investment, however, not only because of its better quality, but because a) the shaving soap or cream will last you ages, b)  the razor will last a lifetime, and c) blades for double-edged razors are much much cheaper than shaving cartridges for Mach 3 and the like.
@@ -50,7 +50,7 @@ Real shaving cream or soap is much better than canned gel or foam. It requires a
 As to brands, there are many, and you can find recommendations in Badger and Blade, but here are a few ideas.
 Two cheap and good creams that are meant to be applied without a brush: Proraso and Musgo Real.
 Great soap: Tabac.
-The one American cream everyone loves (and the only American product on this page): [Nancy Boy](http://www.nancyboy.com).
+The one American cream everyone loves (and the only American product on this page): [Nancy Boy](https://www.nancyboy.com).
 English brands that make good, expensive, creams and soaps: Trumper's, Taylor's, Truefit.
 
 **Brush, no brush**

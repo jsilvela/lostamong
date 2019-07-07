@@ -12,6 +12,6 @@ wordpress_id: 34
 
 Just wanted to break the monotony of my all-text posts, and make you envious.
 
-[![Office with a view](http://jsilvela.smugmug.com/photos/306900031_kZKs7-S.jpg)](http://jsilvela.smugmug.com/photos/306900031_kZKs7-L.jpg)
+[![Office with a view](https://jsilvela.smugmug.com/photos/306900031_kZKs7-S.jpg)](https://jsilvela.smugmug.com/photos/306900031_kZKs7-L.jpg)
 
 

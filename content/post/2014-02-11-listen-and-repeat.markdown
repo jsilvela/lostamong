@@ -10,7 +10,7 @@ url: /2014/02/11/listen-and-repeat/
 wordpress_id: 1101
 ---
 
-http://youtu.be/O0PCaU6t8Kw
+https://youtu.be/O0PCaU6t8Kw
 
 
 

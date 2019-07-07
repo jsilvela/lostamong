@@ -15,7 +15,7 @@ I generally do not to write about work in this blog, but it is the first time
 that I can point to some publicly available software to which I have
 contributed.
 
-If you catch any news on [Bing](http://www.bing.com): that's the group I work
+If you catch any news on [Bing](https://www.bing.com): that's the group I work
 in.
 
 As to my personal contribution: it reminds me a bit of that scene in

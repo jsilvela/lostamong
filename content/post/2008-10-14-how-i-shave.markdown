@@ -15,7 +15,7 @@ craft.
 Shaving has become an enjoyable task for me, in the last few years. It wasn't
 always one.
 
-[![My shaving gear](http://jsilvela.smugmug.com/photos/392670324_RMtoh-S.jpg)](http://jsilvela.smugmug.com/photos/392670324_RMtoh-XL.jpg)
+[![My shaving gear](https://jsilvela.smugmug.com/photos/392670324_RMtoh-S.jpg)](https://jsilvela.smugmug.com/photos/392670324_RMtoh-XL.jpg)
 
 I was the first boy in my class to shave. Mom, ever obsessed with cleanliness,
 told me, when I was twelve, that I had a shade in the mustache area, and needed
@@ -49,8 +49,8 @@ in New York. After a couple of weeks, I was extremely happy with my shaving
 routine. I've been using the double-edged razor for over two years, and in that
 time I've had no razor burn, no ingrown hairs in my neck, an very few nicks.
 
-[![Razor and blade](http://jsilvela.smugmug.com/photos/392670672_7a99D-S.jpg)
-](http://jsilvela.smugmug.com/photos/392670672_7a99D-XL.jpg)
+[![Razor and blade](https://jsilvela.smugmug.com/photos/392670672_7a99D-S.jpg)
+](https://jsilvela.smugmug.com/photos/392670672_7a99D-XL.jpg)
 I've gotten some people to try this too. I helped my running team-mate Liz put a shaving kit together for her husband, who used to have irritations, and he
 really enjoyed the improved experience. Anthony recently converted to brush,
 soap, and double-edged, and is delighted.
@@ -86,4 +86,4 @@ painful and tedious. With my safety razor, it is no longer painful, but it still
 is tedious. I think this is the last area of shaving where I want to improve. So
 far, though, I much prefer the safety razor to the straight-edge.
 
-[![My two razors](http://jsilvela.smugmug.com/photos/392671144_Atdvg-S.jpg)](http://jsilvela.smugmug.com/photos/392671144_Atdvg-XL.jpg)
+[![My two razors](https://jsilvela.smugmug.com/photos/392671144_Atdvg-S.jpg)](https://jsilvela.smugmug.com/photos/392671144_Atdvg-XL.jpg)

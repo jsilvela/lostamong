@@ -16,4 +16,4 @@ This time I did indeed train smarter. I was set for a big improvement on my pers
 
 This happened in Stockholm - my first visit to Scandinavia - and I was impressed with the city, and with the lovely marathon track. The race ended in the Olympic stadium, full of people cheering on. It was a beautiful moment.
 
-[![Photo & Video Sharing by SmugMug](http://jsilvela.smugmug.com/Events/Stockholm-for-the-Marathon/i-8zfnWbb/0/S/732632-1078-0029s-2-S.jpg)](http://jsilvela.smugmug.com/Events/Stockholm-for-the-Marathon/i-8zfnWbb/A)
+[![Photo & Video Sharing by SmugMug](https://jsilvela.smugmug.com/Events/Stockholm-for-the-Marathon/i-8zfnWbb/0/S/732632-1078-0029s-2-S.jpg)](https://jsilvela.smugmug.com/Events/Stockholm-for-the-Marathon/i-8zfnWbb/A)

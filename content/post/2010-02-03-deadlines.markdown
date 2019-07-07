@@ -10,7 +10,7 @@ url: /2010/02/03/deadlines/
 wordpress_id: 658
 ---
 
-A few months ago, a friend got me interested in the [Myers-Briggs Type Indicator](http://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator) test, and I researched a bit. I didn't discover anything new about myself, but still I learned something. The test tries to classify people according to four criteria: introvert vs. extrovert, thinking vs. feeling, sensing vs. intuiting, judging vs. perceiving. Judging vs.perceiving has to do with how you like to organize your time. Judgers like schedules, deadlines, and finishing one project before embarking on the next. Perceivers like looseness, enjoy starting projects at any time, and don't cope well with deadlines.
+A few months ago, a friend got me interested in the [Myers-Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator) test, and I researched a bit. I didn't discover anything new about myself, but still I learned something. The test tries to classify people according to four criteria: introvert vs. extrovert, thinking vs. feeling, sensing vs. intuiting, judging vs. perceiving. Judging vs.perceiving has to do with how you like to organize your time. Judgers like schedules, deadlines, and finishing one project before embarking on the next. Perceivers like looseness, enjoy starting projects at any time, and don't cope well with deadlines.
 
 I assumed that most people would be perceivers, like me, but surprisingly, over 60% are judgers, according to the book I read.
 

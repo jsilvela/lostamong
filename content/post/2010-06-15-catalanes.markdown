@@ -9,5 +9,5 @@ wordpress_id: 803
 ---
 
 Not my own material, and not written in English.
-Here's a link with a great article: [Visca Catalunya](http://www.lavozdegalicia.es/hemeroteca/2005/12/08/4325721.shtml)
+Here's a link with a great article: [Visca Catalunya](https://www.lavozdegalicia.es/hemeroteca/2005/12/08/4325721.shtml)
 

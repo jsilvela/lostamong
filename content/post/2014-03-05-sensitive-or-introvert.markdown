@@ -8,7 +8,7 @@ url: /2014/03/05/sensitive-or-introvert/
 wordpress_id: 1104
 ---
 
-I've begun 2014 digging into introversion. Recently the concept seems to be getting a fresh coat of paint, especially with Susan Cain's TED Talk and her book "Quiet". A slightly different take is offered by the Highly Sensitive Person theory. You can take the [HSP test](http://www.hsperson.com/pages/test.htm). I like the HSP theory better than plain introversion, but both are similar.
+I've begun 2014 digging into introversion. Recently the concept seems to be getting a fresh coat of paint, especially with Susan Cain's TED Talk and her book "Quiet". A slightly different take is offered by the Highly Sensitive Person theory. You can take the [HSP test](https://www.hsperson.com/pages/test.htm). I like the HSP theory better than plain introversion, but both are similar.
 
 Now, I bought a book on HSP, as well as the aforementioned book Quiet. I mostly skimmed, I didn't find either too interesting. Quiet, in particular, annoyed me. I wholeheartedly agree that being an introvert has a bit of a social stigma, but Quiet strikes back by attributing to introverts a lot of great victories, from the iPhone to the Theory of Relativity, and to extroverts a lot of resounding defeats, like the 2008 recession. It's that simple, huh?
 If Einstein or Steve Jobs were alive, they'd probably be appalled at how often their names are thrown in to justify arguments - as if the name alone is all that's needed. Incidentally, Cain posits that Steve Jobs was an extrovert, and Wozniak an introvert. I have my doubts.

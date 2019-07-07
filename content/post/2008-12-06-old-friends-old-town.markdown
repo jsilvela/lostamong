@@ -16,13 +16,13 @@ Thank God for Thanksgiving. There are not enough vacations in American jobs, and
 I spent the whole week of Thanksgiving in New York, which I hadn't visited since moving out in February.
 I don't feel like a detailed account of all that happened during that week. There were good times with old friends. I got to stay in Lara and Andrew's new house in Brooklyn, helped Lara prepare Thanksgiving dinner (her successful debut), went for a run with my team, went ice skating for the second time ever, caught up with Andrea. I'm not interested in the details, but here go a few photos:
 
-[![Preparing the marinade](http://jsilvela.smugmug.com/photos/425940262_H5gZf-S.jpg)](http://jsilvela.smugmug.com/photos/425940262_H5gZf-XL.jpg)
+[![Preparing the marinade](https://jsilvela.smugmug.com/photos/425940262_H5gZf-S.jpg)](https://jsilvela.smugmug.com/photos/425940262_H5gZf-XL.jpg)
 
-[![Thanksgiving table](http://jsilvela.smugmug.com/photos/425946592_4UKXA-S.jpg)](http://jsilvela.smugmug.com/photos/425946592_4UKXA-XL.jpg)
+[![Thanksgiving table](https://jsilvela.smugmug.com/photos/425946592_4UKXA-S.jpg)](https://jsilvela.smugmug.com/photos/425946592_4UKXA-XL.jpg)
 
-[![Lara, Helen, Umut](http://jsilvela.smugmug.com/photos/426108474_T8UfC-S.jpg)](http://jsilvela.smugmug.com/photos/426108474_T8UfC-XL.jpg)
+[![Lara, Helen, Umut](https://jsilvela.smugmug.com/photos/426108474_T8UfC-S.jpg)](https://jsilvela.smugmug.com/photos/426108474_T8UfC-XL.jpg)
 
-[![Skating in Prospect Park](http://jsilvela.smugmug.com/photos/430645715_RomWX-S.jpg)](http://jsilvela.smugmug.com/photos/430645715_RomWX-XL.jpg)
+[![Skating in Prospect Park](https://jsilvela.smugmug.com/photos/430645715_RomWX-S.jpg)](https://jsilvela.smugmug.com/photos/430645715_RomWX-XL.jpg)
 
 New York is a funny place. I've seen people addicted to it. I've seen people be forced to leave before it was their time, and come back for visits at every possible occasion, looking for the lost paradise. This is not the case for me. Of course, I have a long history there - five intense years, and a small crowd of good friends. It was great to see them, I had missed them. But when I heard of their plans for next weekend, or of their life during the past months, I felt no envy, no nostalgia, no desire to prolong my visit. I just don't live there any more.
 

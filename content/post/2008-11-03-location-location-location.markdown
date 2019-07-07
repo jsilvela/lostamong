@@ -13,11 +13,11 @@ I need to remember not to underestimate the power of convenience.
 Last week, the power chord of my MacBook finally died. I had to rely on my iMac, which was at the other corner of the house. It made me realize that I had an inconvenient electronic setup, and so, I reorganized.
 Now my iMac, and my desk, are in the living room, next to the window. The recliner looks towards the window, and the sofa is oriented North. Not huge, but now I make better use of space, and better use of the windows.
 
-[![My living room](http://jsilvela.smugmug.com/photos/403357454_xvuvY-S.jpg)](http://jsilvela.smugmug.com/photos/403357454_xvuvY-X2.jpg)
+[![My living room](https://jsilvela.smugmug.com/photos/403357454_xvuvY-S.jpg)](https://jsilvela.smugmug.com/photos/403357454_xvuvY-X2.jpg)
 
 By now I have a replacement power source for my MacBook, but since I have a desk in the room, I'm using the laptop there, instead of sprawled on the sofa. I have a nice view:
 
-[![Desk view](http://jsilvela.smugmug.com/photos/408466181_eovf7-S.jpg)](http://jsilvela.smugmug.com/photos/408466181_eovf7-X2.jpg)
+[![Desk view](https://jsilvela.smugmug.com/photos/408466181_eovf7-S.jpg)](https://jsilvela.smugmug.com/photos/408466181_eovf7-X2.jpg)
 
 A consequence of using the laptop on my desk is that I'm mixing tasks less. I had developed a habit of using the laptop on the sofa while I listened to music or watched TV. That was not bad in itself, but I ended spending more time doing all these tasks than I should.
 Now that I sit at the desk to use the computer, I'm using it less, and with more focus. The same is true of my music listening and TV or DVD watching. A net gain, if you ask me.

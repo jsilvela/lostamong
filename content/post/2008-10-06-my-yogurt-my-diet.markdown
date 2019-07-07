@@ -38,7 +38,7 @@ With my new knowledge, a lot of things made sense. Periods of stress had been so
 Since I started following the diet, I haven't had a perfect record. Sometimes I'll eat bread, sometimes I feel obliged to accept an offer of pizza, or decide to have a sugary dessert at a restaurant so I can share, or reach for a can of soda in the office. As long as I don't do it repeatedly, I stay well.
 Even when I do follow the diet, I sometimes have bouts of Crohn, but it happens rarely these days, and more mildly than it used to. At last, I feel in control, more or less.
 
-Needless to say, I worship Elaine Gottschal's little book, which by the way, has a following online. These are two sites devoted to her diet: [Pecanbread](http://www.pecanbread.com/) and [breakingtheviciouscycle](http://www.breakingtheviciouscycle.info/index.htm).
+Needless to say, I worship Elaine Gottschal's little book, which by the way, has a following online. These are two sites devoted to her diet: [Pecanbread](https://www.pecanbread.com/) and [breakingtheviciouscycle](https://www.breakingtheviciouscycle.info/index.htm).
 
 I take the lady's word very seriously, so when she recommended to eat home-made yogurt, I bought a yogurt maker, stopped buying the probiotics I had been taking (VSL #3), and started to cultivate an appreciation for fermentation.
 

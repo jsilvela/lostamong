@@ -1,4 +1,4 @@
-@media screen {html {font-size: 25px;}}
+@media screen {html {font-size: 24px;}}
 @media screen and (max-width:1000px){html {font-size: 23px;}}
 @media screen and (max-width:760px){html {font-size: 20px;}}
 @media screen and (max-width:720px){html {font-size: 19px;}}
@@ -7,6 +7,7 @@
 @media screen {
 	body {
 		background-color: #FAFAFA;
+		color: #404040;
 	}
 }
 
@@ -17,6 +18,7 @@
 	
 	body {
 		background-color: white;
+		color: black;
 	}
 }
 

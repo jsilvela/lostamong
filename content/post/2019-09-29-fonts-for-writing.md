@@ -39,9 +39,9 @@ to handle comfortably. That would make for a good writing font, too.
 
 There are several fonts that tackle just this problem. The people behind the
 aforementioned iA Writer have developed a “duospace” font, which is basically a
-monospaced font, with and extra 50% width given to m’s and w’s. [3]
+monospaced font, where m's and w's are given 50% extra width. [3]
 
-Some people are talking of this new category of “fauxnospaced” fonts [4]. I’ve
+There is recently some work on monospaced-inspired variable fonts [4]. I’ve
 tried a few of these, but taste is a tricky thing, and I haven’t particularly
 taken to the ones I tried.
 

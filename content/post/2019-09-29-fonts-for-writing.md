@@ -39,7 +39,7 @@ to handle comfortably. That would make for a good writing font, too.
 
 There are several fonts that tackle just this problem. The people behind the
 aforementioned iA Writer have developed a “duospace” font, which is basically a
-monospaced font, where m's and w's are given 50% extra width. [3]
+monospaced font where m's and w's are given 50% extra width. [3]
 
 There is recently some work on monospaced-inspired variable fonts [4]. I’ve
 tried a few of these, but taste is a tricky thing, and I haven’t particularly
@@ -50,10 +50,12 @@ variable-width fonts. Of the variable-width fonts, some are quite good for
 editing. I stand by Verdana being a very good choice for both writing and
 reading.
 
+---
+
 [1: wikipedia on monospaced fonts](https://en.wikipedia.org/wiki/Monospaced_font)
 
 [2: the reason to choose a monospaced font](https://www.joelonsoftware.com/2000/04/27/designing-for-people-who-have-better-things-to-do-with-their-lives-part-two/)
 
-[3: ia Writer’s duospaced font](https://ia.net/topics/in-search-of-the-perfect-writing-font)
+[3: iA Writer’s duospaced font](https://ia.net/topics/in-search-of-the-perfect-writing-font)
 
 [4: monospaced-looking variable fonts](https://www.isoglosse.de/2018/02/proportionally-spaced-typefaces-with-a-monospaced-appearance/)

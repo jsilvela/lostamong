@@ -65,8 +65,10 @@ would ask
 
 and before Mike or I had time to give our answer, Antonio would interrupt:
 
-> Sorry, “file uploader”? Where is this?\
-> It should be in the web frontend section.\
+> Sorry, “file uploader”? Where is this?
+>
+> It should be in the web frontend section.
+>
 > File uploader, file uploader… Ah, OK, item 7.3, got it.
 
 Antonio was endearingly zealous of his responsibility updating the file, and

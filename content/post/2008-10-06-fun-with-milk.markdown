@@ -33,7 +33,8 @@ There are four parameters you can control when making plain yogurt:
 * Incubation temperature
 * Incubation time
 
-**Incubation temperature**
+### Incubation temperature
+
 I am not able to play easily with the incubation temperature. The incubation
 temperature is important because the lactobacilli that ferment the milk, grow
 best in a certain range of temperature - 38 to 43 Celsius, or 100 to 110
@@ -44,7 +45,8 @@ produce a very slow fermentation, but a finer texture.
 In any case, my yogurt maker doesn't give me the option of adjusting the
 temperature, and I'm not curious enough to set up a lab in the kitchen.
 
-**Incubation time**
+### Incubation time
+
 The incubation time varies widely depending on where you read from. Usually
 you'll read it's about 6 to 8 hours. Elaine Gottschal's book (see
 [my previous post]({{< relref "/post/2008-10-06-my-yogurt-my-diet.markdown">}}))
@@ -54,7 +56,8 @@ experimented with 12 hours of incubation. The longer incubation period makes the
 yogurt slightly tarter and firmer, and has positive impact overall, in my
 opinion.
 
-**Starter**
+### Starter
+
 The starter can be either a spoonful of commercial yogurt, or freeze-dried
 starter cultures. Commercial yogurts, and starter cultures, contain several
 strains of bacteria: at least Thermophilus and Bulgaricus, often Acidophilus and
@@ -73,7 +76,8 @@ I've tried using several yogurts as starters, and I found the flavor of the
 yogurt I got was mediocre. I have much better luck with starter cultures, so
 that's what I use; generally, Yogourmet, which you can buy at Whole Foods.
 
-**Milk**
+### Milk
+
 The most important factor in yogurt is the milk. There are several questions
 here: whole or skim? pasteurized or raw? homogenized or not?
 
@@ -153,7 +157,9 @@ So, hip-hip for modern times. At least when it comes to yogurt, they made milk
 much better.
 
 <div id="fun"></div>
-**The Fun Part**
+
+### The Fun Part
+
 The yogurt I make at home is much better than most available in stores.
 Generally, I make plain yogurt, but when I get good raspberries, gooseberries,
 blueberries or other berries, I often throw them into the yogurt. It is

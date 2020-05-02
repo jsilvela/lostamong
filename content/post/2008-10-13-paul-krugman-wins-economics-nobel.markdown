@@ -14,6 +14,7 @@ I've bought five of Krugman's books, including his textbook on microeconomics (w
 I'm happy he won; I consider him my personal economist.
 
 A couple of articles:
-[Krugman on the "old" Paulson rescue plan](https://www.nytimes.com/2008/09/22/opinion/22krugman.html)
-[Krugman on home ownership](https://www.nytimes.com/2008/06/23/opinion/23krugman.html?partner=rssnyt&emc=rss)
-[Schnur on Deomcratic smugness](https://campaignstops.blogs.nytimes.com/2008/04/15/right-fight-wrong-word/)
+
+- [Krugman on the "old" Paulson rescue plan](https://www.nytimes.com/2008/09/22/opinion/22krugman.html)
+- [Krugman on home ownership](https://www.nytimes.com/2008/06/23/opinion/23krugman.html?partner=rssnyt&emc=rss)
+- [Schnur on Deomcratic smugness](https://campaignstops.blogs.nytimes.com/2008/04/15/right-fight-wrong-word/)

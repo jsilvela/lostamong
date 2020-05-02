@@ -12,5 +12,6 @@ wordpress_id: 463
 
 It will be a while before we pool and geo-tag our photos to make the official albums.
 In the mean time, here are albums with the shots from my camera:
-[Bryce Canyon hike](https://jsilvela.smugmug.com/gallery/8255391_moist/1/541225926_g5vB6)
-[Virginia and Washington, before the wedding](https://jsilvela.smugmug.com/gallery/8415025_sxFsw/1/540061238_Ddf6d)
+
+- [Bryce Canyon hike](https://jsilvela.smugmug.com/gallery/8255391_moist/1/541225926_g5vB6)
+- [Virginia and Washington, before the wedding](https://jsilvela.smugmug.com/gallery/8415025_sxFsw/1/540061238_Ddf6d)

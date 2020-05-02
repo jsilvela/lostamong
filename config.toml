@@ -1,0 +1,16 @@
+baseurl = "https://lost.silvela.org/"
+canonifyurls = true
+disablePathToLower = true
+languageCode = "en-us"
+title = "Lost Among Europeans"
+author = "Jaime Silvela"
+theme = "lost"
+publishdir = "public"
+
+[params]
+  copyright = "Jaime Silvela"
+  twitter = "https://twitter.com/jsilvela"
+  email = "jaime.silvela@gmail.com"
+
+[markup.goldmark.renderer]
+	unsafe= true

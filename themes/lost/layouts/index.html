@@ -1,12 +1,16 @@
 {{ partial "header.html" . }}
 
 	<main>
+
 	<!-- Fixed entries -->
-	<table layout="fixed" style="width: 100%"><tr>
-	{{ range where .Data.Pages "Params.fixed" "top"}}
-		<td class="entry-title" style="font-size: 1.1em; font-weight: 700">
-			<a href="{{ .RelPermalink }}">{{ .Title }}</a>
-		</td>
+	<table layout="fixed" style="width: 100%">
+	<tr>
+	{{ range where .Sections "Section" "=" "top" }}
+		{{ range .Pages }}
+			<td class="entry-title" style="font-size: 1.1em; font-weight: 700">
+				<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+			</td>
+		{{ end }}
 	{{ end }}
 	</tr>
 	</table>
@@ -14,21 +18,22 @@
 	<hr style="margin-bottom: 2em;"/>
 
 	<!-- Posts -->
-{{ range where .Data.Pages "Params.fixed" "!=" "top"}}
-	<article>
-		<h2 class="entry-title">
-			<a href="{{ .RelPermalink }}">{{ .Title }}</a>
-		</h2>
-		<span class="entry-meta">
-			<time datetime="{{ .Date.Format "2006-01-02" }}">
-				{{ .Date.Format "2006, January 02" }}
-			</time>
-		</span>
-	</article>
-{{ end }}
+	{{ range where .Sections "Section" "=" "post" }}
+		{{ range .Pages }}
+			<article>
+				<h2 class="entry-title">
+					<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+				</h2>
+				<span class="entry-meta">
+					<time datetime="{{ .Date.Format "2006-01-02" }}">
+						{{ .Date.Format "2006, January 02" }}
+					</time>
+				</span>
+			</article>
+		{{ end }}
+	{{ end }}
 
 	</main>
 
 {{ partial "license.html" . }}
-<hr/>
 {{ partial "footer.html" . }}

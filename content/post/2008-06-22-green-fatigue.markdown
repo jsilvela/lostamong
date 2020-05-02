@@ -12,25 +12,30 @@ wordpress_id: 31
 ---
 
 It goes like this:
-Someone: I see you drive a Prius, that's great!
-Me: Thanks!
-Someone: You will find that people in Seattle are very concerned with the environment, unlike in other places.
-Me: I found there was a high degree of environmentalism in New York.
-Someone: Oh, really?
+
+> (someone) I see you drive a Prius, that's great!
+>
+> (me) Thanks!
+>
+> You will find that people in Seattle are very concerned with the environment, unlike in other places.
+>
+> I found there was a high degree of environmentalism in New York.
+>
+> Oh, really?
 
 And sometimes I read stupid things like these:
 
 
 
-	
+
   * You should never eat meat, and become a vegetarian. Do it for the environment.
 
-	
+
   * Bottled water is evil. Filtered tap water tastes great, anyway.
 
-	
+
   * The problem is India and China becoming wealthier. We must tutor them.
-	
+
   * Don't eat mammals, they have souls. Mollusks are OK, they're too small to have souls.
 
 

@@ -12,8 +12,8 @@ What a horrible expression, "required reading". I only find it acceptable when i
 
 In my area, software development, for example, we currently have some fervent dogma on how one must think in order to write software properly. Amazon brims with reviews declaring this book or that required reading, and this or that practice unacceptable. Mostly transparent self-promotion and back-patting. Unfortunately, some of these people have jobs in good companies, some even have leadership positions, and get to set agendas and "best practices". It's baloney, but it gives upper management some reassurance that "things are happening".
 
-I became hooked on programming when I started to read "Structure and Interpretation of Computer Programs" by Abelson and Sussman. In the preface, it contains a quote by Alan Perlis. Part of it:
+I became hooked on programming when I started to read *Structure and Interpretation of Computer Programs* by Abelson and Sussman. In the preface, it contains a quote by Alan Perlis. Part of it:
 
-"What you know about computing other people will learn. Don't feel as if the key to successful computing is in your hands. What is in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led to it, that you can make it more."
+> What you know about computing other people will learn. Don't feel as if the key to successful computing is in your hands. What is in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led to it, that you can make it more.
 
 I think this applies very widely, not just to computing. Those are good words to live by.

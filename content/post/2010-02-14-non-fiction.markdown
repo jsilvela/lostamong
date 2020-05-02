@@ -17,10 +17,11 @@ For film, the situation is different. Making a good documentary is difficult. Ma
 When documentaries are successful, though, they can be among the best of films. You see in them characters and plots that a fiction film cannot pull off. Reality can beat fiction. I was reminded of that when watching my latest documentary discovery: _The King of Kong_. I've seen some good films in the last months, but _The King of Kong_ had me jumping in my seat.
 
 Since documentaries aren't that well known, here's a few I recommend highly:
-_[The King of Kong](https://www.imdb.com/title/tt0923752/)_: yes, it's about men playing video games, but trust me, watch it.
-_[The Fog of War](https://www.imdb.com/title/tt0317910/)_
-_[The Thin Blue Line](https://www.imdb.com/title/tt0096257/)_: film noir which happens to be a documentary.
-_[Food Inc.](https://www.imdb.com/title/tt1286537/)_: the best environmentalist documentary I've seen.
-_[Crumb](https://www.imdb.com/title/tt0109508/)_
+
+- _[The King of Kong](https://www.imdb.com/title/tt0923752/)_: yes, it's about men playing video games, but trust me, watch it.
+- _[The Fog of War](https://www.imdb.com/title/tt0317910/)_
+- _[The Thin Blue Line](https://www.imdb.com/title/tt0096257/)_: film noir which happens to be a documentary.
+- _[Food Inc.](https://www.imdb.com/title/tt1286537/)_: the best environmentalist documentary I've seen.
+- _[Crumb](https://www.imdb.com/title/tt0109508/)_
 
 Does anyone have more recommendations?

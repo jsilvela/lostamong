@@ -11,8 +11,9 @@ As happened with my Master’s degree in Computer Science, I’ve been admitted
 despite coming from a different undergraduate degree. The Master’s academic
 committee required that those of us coming from engineering or physics degrees
 should take a prequel year to fill mathematical gaps. In my technical blog I go
-over a summary of the classes I've taken this prequel year. In this little post
-I want to keep things less detailed.
+over a
+[ summary of the classes I've taken](https://blog.silvela.org/post/2020-06-14-math-year-one-classes/)
+this prequel year. In this little post I want to keep things less detailed
 
 The subjects this year are at a level of sophistication that proves this is no
 longer math as number crunching, or as service to physics/engineering. I share

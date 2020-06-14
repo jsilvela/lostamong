@@ -15,7 +15,7 @@ some issues with my approach.
 
 When I was in my early twenties, I hoped I could give myself the equivalent of
 a full math education. There were so many subjects that interested me. So much
-to learn. So many books I bought. Then in my thirties, after failing in my twenties,
+to learn. I bought many books . Then in my thirties, after failing in my twenties,
 I wanted to cram yet more into yet less time. The clock was ticking.
 
 I'd start a book. I'd make progress. I could understand the concepts and the
@@ -49,11 +49,11 @@ more if and when you feel like it.
 It is reassuring to know that a committee of professors decided that these six
 classes would be adequate gap filling for someone coming from engineering.
 
-This summer I plan to read three math books. Short ones, and on matters I know
+This summer I plan to read three math books. Short ones,  on topics I know
 something of already. Just want to prepare a bit for next year. A humbler goal
 than I used to have, and I think, an achievable one.
 
-I am looking forward to the 2020/2021 session, with six new subjects I'm excited
+I am looking forward to the 2020 / 2021 session, with six new subjects I'm excited
 to learn.
 
 ## Isolation

@@ -1,9 +1,8 @@
-@media screen {html {font-size: 23px;}}
-@media screen and (max-width:1000px){html {font-size: 22px;}}
-@media screen and (max-width:760px){html {font-size: 19px;}}
-@media screen and (max-width:520px){html {font-size: 18px;}}
-
 @media screen {
+	html {
+		font-size: 21px;
+	}
+
 	body {
 		background-color: #FAFAFA;
 		color: #303030;
@@ -74,16 +73,16 @@ a {
 }
 
 img {
-  max-width: 100%;
-  height: auto;
-  vertical-align: middle;
-  border: 0;
+	max-width: 100%;
+	height: auto;
+	vertical-align: middle;
+	border: 0;
 }
 
 header,
 footer {
-  margin: 2rem 0;
-  text-align: center;
+	margin: 2rem 0;
+	text-align: center;
 }
 
 blockquote, em {
@@ -130,7 +129,7 @@ main {
 	font-size: 1em;
 	font-variant: small-caps;
 	font-family: "Source Serif Pro", Georgia, Charter, serif;
-/*	font-variant-caps: all-small-caps;   /* seems to be difficult for Safari */
+/*	font-variant-caps: all-small-caps;	/* seems to be difficult for Safari */
 	color: #666;
 }
 

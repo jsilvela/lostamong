@@ -107,6 +107,11 @@ footer {
 	text-align: center;
 }
 
+header table {
+	margin: 2rem 0;
+	text-align: left;
+}
+
 em {
 	font-style: italic;
 }

@@ -1,6 +1,6 @@
 @media screen {
 	html {
-		font-size: 20px;
+		font-size: 19px;
 	}
 
 	body {
@@ -44,13 +44,36 @@
 	src: url('../fonts/SourceSerifPro-It.otf.woff') format('woff');
 }
 
+@font-face{
+	font-family: 'Literata TT';
+	font-weight: 700;
+	font-style: normal;
+	font-stretch: normal;
+	src: url('../fonts/LiterataTT-TextSemibold.woff') format('woff');
+}
+
+@font-face{
+	font-family: 'Literata TT';
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	src: url('../fonts/LiterataTT-TextRegular.woff') format('woff');
+}
+
+@font-face{
+	font-family: 'Literata TT';
+	font-weight: 400;
+	font-style: italic;
+	font-stretch: normal;
+	src: url('../fonts/LiterataTT-TextItalic.woff') format('woff');
+}
 
 @page {
 	margin: 1cm;
 }
 
 body {
-	font-family: "Source Serif Pro", Charter, "Bitstream Charter", Georgia, serif;
+	font-family: "Literata TT", "Source Serif Pro", Charter, "Bitstream Charter", Georgia, serif;
 	line-height: 1.6;
 }
 
@@ -84,8 +107,12 @@ footer {
 	text-align: center;
 }
 
-blockquote, em {
+em {
 	font-style: italic;
+}
+
+blockquote {
+	font-style: normal;
 }
 
 main {

@@ -45,27 +45,27 @@
 }
 
 @font-face{
-	font-family: 'Literata TT';
+	font-family: 'IBM Plex Serif';
 	font-weight: 700;
 	font-style: normal;
 	font-stretch: normal;
-	src: url('../fonts/LiterataTT-TextSemibold.woff') format('woff');
+	src: url('../fonts/IBMPlexSerif-SemiBold.woff') format('woff');
 }
 
 @font-face{
-	font-family: 'Literata TT';
-	font-weight: 400;
-	font-style: normal;
-	font-stretch: normal;
-	src: url('../fonts/LiterataTT-TextRegular.woff') format('woff');
-}
-
-@font-face{
-	font-family: 'Literata TT';
+	font-family: 'IBM Plex Serif';
 	font-weight: 400;
 	font-style: italic;
 	font-stretch: normal;
-	src: url('../fonts/LiterataTT-TextItalic.woff') format('woff');
+	src: url('../fonts/IBMPlexSerif-TextItalic.woff') format('woff');
+}
+
+@font-face{
+	font-family: 'IBM Plex Serif';
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	src: url('../fonts/IBMPlexSerif-Text.woff') format('woff');
 }
 
 @page {
@@ -73,7 +73,7 @@
 }
 
 body {
-	font-family: "Literata TT", "Source Serif Pro", Charter, "Bitstream Charter", Georgia, serif;
+	font-family: "IBM Plex Serif", "Source Serif Pro", Charter, "Bitstream Charter", Georgia, serif;
 	line-height: 1.6;
 }
 

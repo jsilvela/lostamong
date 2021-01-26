@@ -24,7 +24,7 @@ has coined the term *elite overproduction*. There is a new demographic
 of people with all the right credentials who have not made it to the elite.
 This [FT article](https://www.ft.com/content/0bf03db8-c61b-4222-8c76-4fb23988ec13)
 argues that the new élite manquée clarifies both Brexit and Trumpism.
-The alliance of the ignored working class with the resentful sub-elites who 
+The alliance of the ignored working class with the resentful sub-elites who
 want their turn at the top.
 
 The article holds that the current brand of right-wing populism can't last long. Once
@@ -76,12 +76,11 @@ more middle class families, there is much chagrin among the families who were
 Leave it to South Park to write a song for this, in their
 [*Pee* episode.](https://www.southparkstudios.com/episodes/xenush/south-park-pee-season-13-ep-14 )
 
-> There are too many minorities (minorities) \
-> At my waterpark (my waterpark) \
-> This was our land, our dream (our dream) \
+> There are too many minorities (chorus: minorities) \
+> At my waterpark (chorus: my waterpark) \
+> This was our land, our dream (chorus: our dream) \
 > And they've taken it all away \
-> They just keep coming and coming (minorities) \
+> They just keep coming and coming (chorus: minorities) \
 > I tried just goin' and tell the police \
 > But even the authorities \
 > are minorities at my waterpark
-

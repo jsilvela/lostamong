@@ -15,7 +15,7 @@ to my conference-call setup.
 A simple USB webcam to put on top of my monitor, and use instead of the laptop's
 embedded camera and microphone.
 
-A little 5-port ethernet switch so I don't rely on Wi-Fi all the time.
+A little 5-port ethernet switch so I don't depend on Wi-Fi all the time.
 
 ## News subscriptions
 

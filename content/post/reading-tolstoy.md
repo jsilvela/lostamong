@@ -101,13 +101,13 @@ From the epilogue, part 1, chapter 5.
 
 (Briggs)
 
-No.
-I like P&V much better. It is more direct, and to me seems truer.
+No. \
+I like P&V much better. It is more direct, and to me it seems truer.
 
 So why, then, had I been tired by P&V? Their detractors complain about rough,
 un-gramatical English, but on one hand, it doesn’t seem un-gramatical to me, and
-on the other, being a non-native English speaker, I think I am less aware of, or
-more indulgent of, non-idiomatic English.
+on the other, being a non-native English speaker, I think I am less aware of
+non-idiomatic English, or more indulgent of it.
 
 I think the problem with P&V is that it is occasionally sloppy, to the point of
 not making sense. It would have benefited from a few more rounds of error

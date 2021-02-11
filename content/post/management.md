@@ -93,9 +93,8 @@ This story has remained with me as a sort of Platonic ideal of bad management. I
 have seen a lot of bad management, but much of the worst follows the same
 pattern, where the manager simply does not know what the project entails, what
 the difficulties are, how to evaluate if something is a strategic step forward,
-or a humdrum milestone. Realizing he’s out of his depth, thinking that learning
-and asking questions will make him appear weak, and believing the essence of
-management hinges on projecting an image of power, he puts up a façade of
+or a humdrum milestone. Realizing he’s out of his depth, thinking that
+asking basic questions will make him appear weak, he puts up a façade of
 control, calls for regular meetings, expresses displeasure in strong but
 un-specific terms, and gives the occasional positive feedback — often misplaced.
 

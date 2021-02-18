@@ -21,7 +21,7 @@ yourself often about someone, be that a colleague or a president.
 
 ## Delivering for your audience
 
-The book *Structure and Interpretation Programs* is one of my favorites. The
+The book *Structure and Interpretation of Computer Programs* is one of my favorites. The
 authors, Gerald Jay Sussman and Harold Abelson, both received big awards for
 their teaching.
 

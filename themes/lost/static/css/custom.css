@@ -21,45 +21,31 @@
 }
 
 @font-face{
-	font-family: 'Source Serif Pro';
+	font-family: 'Source Serif 4';
 	font-weight: 600;
 	font-style: normal;
-	src: url('../fonts/SourceSerifPro-Semibold.otf.woff') format('woff');
+	src: url('../fonts/SourceSerif4-Semibold.otf.woff') format('woff');
 }
 
 @font-face{
-	font-family: 'Source Serif Pro';
+	font-family: 'Source Serif 4';
 	font-weight: 400;
 	font-style: normal;
-	src: url('../fonts/SourceSerifPro-Regular.otf.woff') format('woff');
+	src: url('../fonts/SourceSerif4-Regular.otf.woff') format('woff');
 }
 
 @font-face{
-	font-family: 'Source Serif Pro';
+	font-family: 'Source Serif 4';
 	font-weight: 400;
 	font-style: italic;
-	src: url('../fonts/SourceSerifPro-It.otf.woff') format('woff');
+	src: url('../fonts/SourceSerif4-It.otf.woff') format('woff');
 }
 
 @font-face{
-	font-family: 'spectral';
-	font-weight: 400;
-	font-style: normal;
-	src: url('../fonts/spectral-regular.woff') format('woff');
-}
-
-@font-face{
-	font-family: 'spectral';
+	font-family: 'Source Serif 4 subhead';
 	font-weight: 600;
 	font-style: normal;
-	src: url('../fonts/spectral-semibold.woff') format('woff');
-}
-
-@font-face{
-	font-family: 'spectral';
-	font-weight: 400;
-	font-style: italic;
-	src: url('../fonts/spectral-italic.woff') format('woff');
+	src: url('../fonts/SourceSerif4Subhead-Semibold.otf.woff') format('woff');
 }
 
 @page {
@@ -67,8 +53,12 @@
 }
 
 body {
-	font-family: "Source Serif Pro", "spectral", Georgia, serif;
+	font-family: "Source Serif 4", Georgia, serif;
 	line-height: 1.6;
+}
+
+strong, b {
+	font-weight: 600;
 }
 
 h1 { font-size: 1.2em; }
@@ -79,9 +69,10 @@ h5,
 h6 { font-size: 1em; }
 
 h1, h2, h3, h4, h5, h6 {
-	margin-top: 0;
+	margin-top: 1.5rem;
 	margin-bottom: 0;
 	font-weight: 600;
+	font-family: "source serif 4 subhead", Georgia, serif;
 }
 
 a {
@@ -149,9 +140,11 @@ main {
 
 .entry-meta {
 	display: inline-block;
-	margin-bottom: 2rem;
+	margin-bottom: 0;
 	font-size: 1em;
 	font-variant: small-caps;
+	font-family: "source serif 4 subhead", Georgia, serif;
+	font-weight: 600;
 /*	font-variant-caps: all-small-caps;	/* seems to be difficult for Safari */
 	color: #666;
 }

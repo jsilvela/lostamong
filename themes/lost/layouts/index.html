@@ -3,17 +3,13 @@
 	<main>
 
 	<!-- Fixed entries -->
-	<table layout="fixed" style="width: 100%">
-	<tr>
 	{{ range where .Sections "Section" "=" "top" }}
 		{{ range .Pages }}
-			<td class="entry-title" style="font-size: 1.1em; font-weight: 700">
+			<span class="entry-title">
 				<a href="{{ .RelPermalink }}">{{ .Title }}</a>
-			</td>
+			</span>
 		{{ end }}
 	{{ end }}
-	</tr>
-	</table>
 
 	<hr style="margin-bottom: 2em;"/>
 

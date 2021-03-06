@@ -121,6 +121,13 @@ main {
 	margin-bottom: 0;
 }
 
+span.entry-title {
+	display: inline;
+	margin-right: 3em;
+	font-size: 1.1em;
+	font-weight: 600;
+}
+
 .entry-title a {
 	text-decoration: none;
 }
